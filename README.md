@@ -107,7 +107,114 @@ Jupiter (Menu,Game Screen)
 .... (Comic Font)
 
 ### In Game Text
-....
+
+Menu Text-
+Tundra
+Ocean
+British Country Side
+Rain Forest
+
+Rain Forest | Mobile Phone Comic Strip | Production Green House Gas Chain-
+1. Mining takes place in the forest which releases carbon as oil drilling rigs and mines are constructed, installed and run to extract raw materials which are mainly native to rainforests.
+2. The raw materials are then transported to factories in China, Taiwan, Japan or Korea releasing carbon in the process.
+3. In theses factory's raw materials are made into usable phone parts, releasing carbon as electricity is generated in the process. 
+4. The mobile phones are then packaged releasing more carbon.
+5. During transportation of the phones to the phone shop further carbon is released.
+6. In the Phone shop electricity powers lights, computers, heating, water and many more resources produce excess amounts of carbon. 
+7. Carbon is also released as customers travel to the phone shop.
+8. Once the phone is purchased and plugged in to charge additional carbon is excelled. 
+9.More carbon is released as more resources are mined if the phone is not recycled creating a cycle.   
+Rainforest Comic Strip | Images | Shows 3 things that could be done - 
+what can be done: 
+Recycle old Mobile Phones 
+Take Better care of the Phone
+Reconsider upgrading if the phone works ok
+British Countryside |Beef Comic strip |Production Greenhouse Gas Chain-
+1. trees and plants are cut down to make space for cows and to grow their feed thus releasing Greenhouse Gases.
+2. Carbon is also  released from pesticides that are put on cow feed to stop them being damaged by pests. Even the production of pesticides produces greenhouse gases.
+3. Carbon and nitrous oxide are released from fertilisers that are used to help cow feed grow.
+ 4. when electricity pumps water from rivers/reservoirs/streams etc. to provide drink for the cows and to water their feed in the fields more carbon is released.
+5. Carbon is also released when farm vehicles and machinery are used on the farm and fields.
+6. Methane is also released when grazing cows pass wind. 
+7. During transportation of livestock to slay, carbon is released when.
+8 Electricity powers such as fridges, lights, computers, water and m more resources found in a slaughter house release carbon.
+9. From the production of the materials used to package the beef carbon is released.
+10. When beef is transported to the shops and restaurants carbon is released. Sometimes it is flown over from a different country!
+11. Carbon is released as electricity powers fridges, lights, computers, heating, water and many more resources in the shops and restaurants. 
+12. Additional carbon released as customers travel to the shops and restaurants.
+13. Methane is released as beef and packaging decomposes in landfill.
+Countryside Comic Strip | Images | Shows 3 things that could be done - 
+What can be done:
+eat less beef (skip eating beef for one day a week)
+throw beef and any other food if possible in a special waste bin
+When ordering food pick an alternative meat instead of beef (or a vegetarian option)
+Ocean | Plastic Bottle comic strip |production Green House gas chain-
+1. As drilling rigs are constructed, installed and run carbon is released. 
+2. Carbon is also further released as oil is transported via pipes/ships to treatment plants.
+3.  Electricity is then required to clean the oil releasing more carbon.
+4. As oil is transported via pipes/ships/rail/tankers to manufacturers additonal Carbon is released.
+5. Further carbon is released when electricity is generated to form the oil into plastic bottles and lids.
+6. The empty bottles are then transported to a bottling plant generating more carbon.
+7. machinery then fills the empty bottles with drink releasing more carbon!
+8. Carbon is also released during packaging.
+9. After Packaging more carbon is released as plastic bottles are transported to shops and restaurants.
+10. Electrical powers like fridges, lights, computers, heating, water and many more resources in the shops and restaurants cause more carbons to be released. 
+11.Moreover Carbon is released as customers travel to the shops and restaurants.
+12. Methane is also released as plastic bottle decomposes in landfill. 
+Ocean | Plastic Bottle comic strip |Images | Shows 3 things that could be done - 
+what can be done: 
+Reuse a bottle instead of buying a new one
+Recycle Plastic Bottles
+Ask for tap water when eating out
+
+Tundra |Arctic | Electronics left on standby comic strip | production Greenhouse Gas Chain-
+1. Natural gas drilling rigs are constructed, installed and run in the Tundra, which releases carbon.
+2. natural gas is then transported via pipes/ships/tankers to treatment plants releasing more carbon.
+3. Carbon is also released as electricity is required to clean and dry the natural gas. 
+4. Natural gas is usually odorised so people can smell it and be alerted to a gas leak, though this causes the release of carbon.
+5. As natural gas is transported via pipes/ships/tankers to power stations in the UK further carbon is excelled. 
+6. The natural gas is then burned in power stations to drive turbines, which then produces electricity but also releases carbon in the process.
+7. Additionally carbon is  released as electricity is needed for pylons/power lines to carry electricity. 
+8. 15kg of carbon waster per year by leaving TV on standby.
+Tundra | Arctic | Electronics left on standby comic strip |Images | Shows 3 things that could be done - 
+what can be done: 
+Switch off electronics of standby when not in use
+Switch of lights when not in use
+Unplug Mobile phone charger from wall
+
+Pledges by Habitat:
+Text (on pledges screen)
+1. Write School name
+Countryside
+1.	I will try to skip eating beef (and better yet, meat!) for one day a week (you could follow @meatfreemonday).
+2.	If I have access to a special food waste bin, I will throw beef (and any other food waste) in it.
+3.	When ordering food, I will pick an alternative meat (or better yet, a vegetarian option) instead of beef .
+
+Ocean
+1.	I will use a reusable bottle instead of buying single use plastic bottles.
+2.	I will recycle any plastic bottles I use.
+3.	If I want water when eating out, I will ask for tap water instead of getting it in a plastic bottle.
+
+Arctic Tundra
+1.	I will switch electronics off of standby when I am not using them.
+2.	I will switch light switches off when I am not using them .
+3.	I will unplug my mobile phone charger from the wall.
+
+Rainforest
+1.	I will reconsider upgrading my phone every year/two years if it still works okay.
+2.	I will take care of my phone to make it last as long as possible.
+3.	I will recycle my phone instead of throwing it in landfill.
+
+Interesting Fact (One per Habitat) | Shown in game screen once button is pressed on bottom of the screen
+
+British Countryside
+1.Nitrous oxide is 300 times more harmful to the environment than carbon.
+Ocean
+1. Methane is 23 times more harmful to the environment than carbon.
+Rain Forest
+1. 80% of the carbon footprint of a phone happened before it’s turned on for the first time!
+Tundra
+1.  9-16% of the electricity consumed in homes is used to power appliances when they are in standby mode.
 
 ## [5] Project Backlog
 Group Details
