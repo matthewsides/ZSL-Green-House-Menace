@@ -1,6 +1,6 @@
 # ZSL Application
- Matthew Sides
-## Design History
+
+## [1] Design History
 Version 1.0
 
 Produced by Matthew Sides, Sam,Luke,Luke and Joe
@@ -9,15 +9,17 @@ Produced by Matthew Sides, Sam,Luke,Luke and Joe
 
 ## Table of contents
 
-1.Design History
+[1] Design History
 
-2.Game Overview
+[2] Game Overview
 
-3.Specification
+[3] Specification
 
-4.Game Mechanics | InGame Elements
+[4] Game Mechanics | InGame Elements
 
-## GameOverview
+[5] Project Backlog
+
+## [2] GameOverview
 
 ### Introduction
 
@@ -25,10 +27,10 @@ This document specifies a design for the conceptual features and mechanics (game
 
 ### Scope
 
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”.
+This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
 
-## Specification
+## [3] Specification
 
 ### Concept
 
@@ -87,7 +89,7 @@ The game is not sound dependant since it was requested by the client(no sound or
 
 The only language avaliable in the game will be english. 
 
-## Game Mechanics | InGame Elements
+## [4] Game Mechanics | InGame Elements
 
 ### Camera 
 
@@ -107,7 +109,7 @@ Jupiter (Menu,Game Screen)
 ### In Game Text
 ....
 
-### ZSL Project Backlog
+## [5] Project Backlog
 Group Details
 
 Group Name: Ducks and Bucks
@@ -168,7 +170,7 @@ Tasks for 9th-15th
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
 | Add possible contingency options against risk, time, technology etc. to overall plan | Luke Shead | 30 Minutes | Yes | 
-| Create a full set of user stories | Luke Bruni |30 mins	Yes |   
+| Create a full set of user stories | Luke Bruni |30 mins   |	Yes     |   
 | Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
 | Use stories to add to the backlog | Sam  |   30 minutes | Yes |                        
 | Create this week’s sprint backlog  |   Sam |      30 minutes    |  Yes    |                                    
@@ -187,6 +189,6 @@ This week’s sprints first started with our group meeting and discussing what w
 | Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
 | Test all aspects of the app| All Members  |   5 Days | Yes |                        
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
-|Combine all sections of the app, when all sections are done | 2 hours | Yes|
+|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 
