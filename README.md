@@ -304,5 +304,7 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ### Importance of team dynamics in the success and/or failure of group work
 
-Team dynamics is integral to the success or failure of any project, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused in concistnecy in the graphics
+Team dynamics is integral to the success or failure of any project, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
+
+Moreover during the extended break the group was expected to organise times as to when to come in doing the equivalent to overtime to ensure that the groups were on target for a time deference already below the usual industry standards as to what would be coined as acceptable or reasonable.
 
