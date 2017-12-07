@@ -312,3 +312,6 @@ Furthermore team dynamics may not just affect the success or failure of said gro
 
 The success that team dynamics bring is essentially the vice versa to what is covered in the previous and above paragraphs, allowing people to have high morale, work meets standards, excellent reputation as work is delivered, retention of staff, constant secure/safe flow of money and team and individual performance improving. Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
+### Crtical Evalutation 
+
+
