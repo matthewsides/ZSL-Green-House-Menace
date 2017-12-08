@@ -300,6 +300,8 @@ This week’s sprints first started with our group meeting and discussing what w
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
+### Research
+
 ## [6] Evalutation 
 
 ### Importance of team dynamics in the success and/or failure of group work
@@ -312,11 +314,21 @@ Furthermore team dynamics may not just affect the success or failure of said gro
 
 The success that team dynamics bring is essentially the vice versa to what is covered in the previous and above paragraphs, allowing people to have high morale, work meets standards, excellent reputation as work is delivered, retention of staff, constant secure/safe flow of money and team and individual performance improving. Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
-### Crtical Evalutation 
+### Critical Evalutation of self contribution
 
 In relation to my own self contribution to the project, I believe in regards to the first draft I was integral to some of the key concepts thought up , though not as useful in the documentation of said concept, instead opting to handle the storyboard aspect as to how the game may function and look, though as explained in the above section (Importance of team dynamics in the success and/or failure of group work) the whole team dynamic was not functioning to an acceptable standard and thus confusion ensued as to the graphical outlook of the game and thus a re-evaulation of said drawings was required to ensure consistency with other graphics made by another group member.Furthermore I took attempted to take on roles that were supposed to be covered by the team leader,organising meetings during breaks, though not successful this shows the lack of team dynamic and room for improvement. Although in the (second meeting with the client) meeting where the first draft was introduced and presented to the client I contributed slightly to the answering of questions though maybe not necessary it helped relive the pressure of the chosen presenter of are group.
 
 Furthermore in relation to the contribution for the second draft I believe the contribution I garned was integral and significant as the main core coneceptual idea was thought up by me, with the game design documentation, text documentation and the majority of the applications core features, excluding the graphics were covered and developed by me, thus allowing the client to see visual development and also a finished product within the time limit set by the client. That is not to say that the group did not have a hand in said development, but shows that I had an evident and significant impact on the final outcome of the project application.
 
 Moreover following the critical evalutation if I were to undertake a similiar project in the future I would suggest that I work on my time management, communication (required for the whole team/group) and overall handling of the project in the first instance ensuring that the brief is thoroughly read as in the first instance or draft it missed the point as to what the client wanted the application to bring across and be centered around.
+
+### Event and Design evaluation
+
+In regards to the event it was  satisfactory, producing perhaps not a desiarable outcome but an exceptable one, as a solid idea was layed out to the client meeting the criteria that was talked over with the client days before in a prior meeting before the final event. Whilst although the application prototype failed to function in some areas the base for the application was there showing the client as to what to expect and considerble commitment considering that it was manufactured and put together within a short span of time.
+
+Moreover there was an appliciation of savvy interpersonal skills during the event, showcasing the ideology behind the application, reasons for making the decisions we did and what could have been had more time been allocated.Further communicating with the clients bouncing ideas off eachother and accepting crude criticism as to what they would have liked to have seen or what could have been done to further improve the app. 
+
+Inaddition during the design proccess the first draft and the follow up to the second was lacking in the use of interpersonal skills and actually meeting the clients requirements or standards, which can be seen to be linked with the lack of interpersonal skills and team dynamics within the group. Furthermore the effectiveness of interpersonal skills can be seen through the stark contrast in work covered in the weeks that meetings were held, whilst through comparing the first draft that did not fully meet the clients (ZSL) standards unlike the second idea that was met with favorable feedback.  The lack of interpersonal skills particularly near the beginning of the project can be further seen through the graphical and drawn designs of the application as the drawn designs or storyboards had to be scrapped as it did not meet the asthetic look of the graphical images, thus leading to inconsistency. 
+
+
 
