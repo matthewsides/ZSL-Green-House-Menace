@@ -93,7 +93,11 @@ The only language avaliable in the game will be english.
 
 ### IDE
 
-Inregards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, thereafter now that two IDE's (both text editors) had been chosen it was necassary to decide which one to use, considering in particular the tools as well as the ease of use. In the end visual studios was chosen since it is compatiable with unity which in itself is a program that provides flexability, adaptability and overall makes the development easier and more smooth. Whilst language was also integral in the decision though as C# was used as the language, in addition since not all IDE's may use all programming languages it was nesaccary to check to ensure that visual studios would be compatiable with C#, evidently visual studios does allow the incorparation of C#, whilst notepad++ is compatiable with all languages (useful for some circumstances, but not in this instance since visual studios is also compatiable).
+Inregards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, whilst both are considerate in regards to layout,tools, etc. and target beginners (with visual studios also targeting other demographics). 
+
+Thereafter now that two IDE's (both text editors) had been chosen it was necassary to decide which one to use, considering in particular the tools as well as the ease of use. In the end visual studios was chosen since it is compatiable with unity which in itself is a program that provides flexability, adaptability and overall makes the development easier and more smooth. 
+
+Whilst language was also integral in the decision though as C# was used as the language, in addition since not all IDE's may use all programming languages it was nesaccary to check to ensure that visual studios would be compatiable with C#, evidently visual studios does allow the incorparation of C#, whilst notepad++ is compatiable with all languages (useful for some circumstances, but not in this instance since visual studios is also compatiable).
 
 ## [4] Game Mechanics | InGame Elements
 
