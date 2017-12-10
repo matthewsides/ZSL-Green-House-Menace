@@ -99,7 +99,11 @@ Thereafter now that two IDE's (both text editors) had been chosen it was necassa
 
 Whilst language was also integral in the decision though as C# was used as the language since it was the only avliable language in unity that was avaliable to the group at the beggining since other languages arent  appplicable in unity until  a premumium subscription is purchased, whilst C# also has some simialities to C++ (the intended/initially proposed language to be applied and used), in addition since not all IDE's may use all programming languages it was necassary to check to ensure that visual studios would be compatiable with C#, evidently visual studios does allow the incorparation of C#, whilst notepad++ is compatiable with all languages (useful for some circumstances, but not in this instance since visual studios is also compatiable).
 
+Moreover linking in with the compatability point in this project the client wanted the app to be hosted on a website using Ipads to access the website.Therefore it was recommended/decided that WebGL would be used as it is compatiable with chrome and can function to an extent in safari, this is also another reeason as to why unity was used and the language and IDE was chosen for the development of the application. 
+
 Thereafter the decision was essentially made after evaulating the ease of use, compatability with other software in use, a comparision of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
+
+
 
 ## [4] Game Mechanics | InGame Elements
 
