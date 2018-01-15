@@ -318,6 +318,17 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ## [6] Evalutation 
 
+
+### Compare and contrast different motivational theories and the impact they can have on performance within the workplace.
+
+Hierarcy of Needs
+
+Carrot and Stick
+
+Motivation-Hygiene Theory
+
+http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
+
 ### Importance of team dynamics in the success and/or failure of group work
 
 Team dynamics is integral to the success or failure of any project and its management, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
