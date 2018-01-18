@@ -334,7 +334,7 @@ This five-stage model can be divided into deficiency needs and growth needs. The
 This traditional motivational theory, attributed to philosopher Jeremy Bentham, dates back to around 1800 during the Industrial Revolution. The theory essentially splits motivation into two basic components: incentives and fear.There are instances where some are motivated by material gain,yearning to achieve status and power, comparitive to where some act out of fear of losing their job  being reprimanded by a supervisor or not being able to adequately perform an assignment.
 
 
-#### Comparsion 
+#### Comparsion and Impact
 
 The relation and differences between the two motivational theories above essentially pertain to the factors that lead to motivation and the driving forces behind said motivation, as briefly explained above, "the Carrot and Stick theory essentially splits motivation  into two compentents: Incentives and fear", similiar to the Hierarcy of Needs the first few (two-three) tiers in the pyramid model refer to survival and the following that factors that trail behind the lack of ability to access the basic needs to survive are fear and incentive, thus it is easy to relate the two theorys in the beggining tiers (D-needs) of the Hierarcy of Needs model. 
 
@@ -344,8 +344,9 @@ five layered ordered model, pertaining to the idea that certain needs take preci
 Thereafter the theories do not clash but rather collate, with the Hierarcy of Needs theory merely exapanding on the Carrot and Stick
 motivational theory formed in the 1800's, delving more into the incentives one may crave (self fufilment, Pyschological needs,Basic Needs) and the fears one may experience during a peroid of work (stress).
 
-In relation to the ZSL Project and own experience, the theorys can be seen to have a huge impact  playing an (integral) important role, as during the project there were numerous instances in which we were behind and this is where the idea of fear that leads motivation can be seen (may be noted that this was particuarly prominent after the first presentation when morale was low and work was stagment, it took the idea or fear of not having anything to present in the next meeting and failing to meet expectations to motivate the group further). Whilst the incentives in this regard pertain to the fifth and fourth level, particuarly of self actualization and Esteem needs, as the ZSL opportunity beckoned competition and growth, with the chosen group being able to present their work and see their application used in a proffessional manner. 
+In relation to the ZSL Project and own experience, the theorys can be seen to have a huge impact, deemed important , as during the project there were numerous instances in which we were behind and this is where the idea of fear that leads motivation can be seen (may be noted that this was particuarly prominent after the first presentation when morale was low and work was stagment, it took the idea or fear of not having anything to present in the next meeting and failing to meet expectations to motivate the group further). Whilst the incentives in this regard pertain to the fifth and fourth level, particuarly of self actualization and Esteem needs, as the ZSL opportunity beckoned competition and growth, with the chosen group being able to present their work and see their application used in a proffessional manner. 
 
+Therefore it may be seen that the motivational theories play an integral role and severely impact work produced, however the differences in the worked produced out of fear and incentives being different in the sense that depending on the situation the quality of work produced may be different regardless of whether either of the theorys idealogical basis. 
 
 References used: 
 
