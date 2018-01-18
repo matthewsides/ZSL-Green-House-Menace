@@ -319,17 +319,19 @@ This week’s sprints first started with our group meeting and discussing what w
 ## [6] Evalutation 
 
 
-### Compare and contrast different motivational theories and the impact they can have on performance within the workplace.
+### Motivational theories, contrast and impact on the workplace
 
-Hierarcy of Needs
+#### Hierarcy of Needs
 
 The Hierarcy of needs, developed by Psychologist Abraham Maslow, is a motivational theory comprising a five tier model of human needs, often depicted as hierarchical levels within a pyramid. Maslow (1943, 1954) stated that people are motivated to achieve certain needs and that some needs take precedence over others. Moreover once one level is attained it is human nature to move onto the next and what further motivates us.
 
 
-Carrot and Stick
+#### Carrot and Stick
 
 This traditional motivational theory, attributed to philosopher Jeremy Bentham, dates back to around 1800 during the Industrial Revolution. The theory essentially splits motivation into two basic components: incentives and fear.There are instances where some are motivated by material gain,yearning to achieve status and power, comparitive to where some act out of fear of losing their job  being reprimanded by a supervisor or not being able to adequately perform an assignment.
 
+
+Comparsion 
 
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 
