@@ -344,6 +344,8 @@ five layered ordered model, pertaining to the idea that certain needs take preci
 Thereafter the theories do not clash but rather collate, with the Hierarcy of Needs theory merely exapanding on the Carrot and Stick
 motivational theory formed in the 1800's, delving more into the incentives one may crave (self fufilment, Pyschological needs,Basic Needs) and the fears one may experience during a peroid of work (stress).
 
+In relation to the ZSL Project and own experience, the theorys can be seen to play an important role as during the project there were numerous instances in which we were behind and this is where the idea of fear that leads motivation can be seen (may be noted that this was particuarly prominent after the first presentation when morale was low and work was stagment, it took the idea or fear of not having anything to present in the next meeting and failing to meet expectations to motivate the group further). Whilst the incentives in this regard pertain to the fifth and fourth level, particuarly of self actualization and Esteem needs, as the ZSL opportunity beckoned competition and growth, with the chosen group being able to present their work and see their application used in a proffessional manner. 
+
 
 References used: 
 
