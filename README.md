@@ -331,8 +331,13 @@ The Hierarcy of needs, developed by Psychologist Abraham Maslow, is a motivation
 This traditional motivational theory, attributed to philosopher Jeremy Bentham, dates back to around 1800 during the Industrial Revolution. The theory essentially splits motivation into two basic components: incentives and fear.There are instances where some are motivated by material gain,yearning to achieve status and power, comparitive to where some act out of fear of losing their job  being reprimanded by a supervisor or not being able to adequately perform an assignment.
 
 
-Comparsion 
+#### Comparsion 
 
+The relation and differences between the two motivational theories above essentially pertain to the factors that lead to motivation and the driving forces behind said motivation, as briefly explained above, "the Carrot and Stick theory essentially splits motivation  into two compentents: Incentioves and fear", similiar to the Hierarcy of Needs the first few tiers in the pyramid model,
+
+and "Hierarcy of Needs"  two motivational theories covered above relate 
+
+and covered under the heading
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 
 ### Importance of team dynamics in the success and/or failure of group work
