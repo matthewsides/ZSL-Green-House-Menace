@@ -326,6 +326,9 @@ This week’s sprints first started with our group meeting and discussing what w
 The Hierarcy of needs, developed by Psychologist Abraham Maslow, is a motivational theory comprising a five tier model of human needs, often depicted as hierarchical levels within a pyramid. Maslow (1943, 1954) stated that people are motivated to achieve certain needs and that some needs take precedence over others. Moreover once one level is attained it is human nature to move onto the next and what further motivates us.
 
 
+
+This five-stage model can be divided into deficiency needs and growth needs. The first four levels are often referred to as deficiency needs (D-needs), and the top level is known as growth or being needs (B-needs).
+
 #### Carrot and Stick
 
 This traditional motivational theory, attributed to philosopher Jeremy Bentham, dates back to around 1800 during the Industrial Revolution. The theory essentially splits motivation into two basic components: incentives and fear.There are instances where some are motivated by material gain,yearning to achieve status and power, comparitive to where some act out of fear of losing their job  being reprimanded by a supervisor or not being able to adequately perform an assignment.
@@ -333,12 +336,19 @@ This traditional motivational theory, attributed to philosopher Jeremy Bentham, 
 
 #### Comparsion 
 
-The relation and differences between the two motivational theories above essentially pertain to the factors that lead to motivation and the driving forces behind said motivation, as briefly explained above, "the Carrot and Stick theory essentially splits motivation  into two compentents: Incentioves and fear", similiar to the Hierarcy of Needs the first few tiers in the pyramid model,
+The relation and differences between the two motivational theories above essentially pertain to the factors that lead to motivation and the driving forces behind said motivation, as briefly explained above, "the Carrot and Stick theory essentially splits motivation  into two compentents: Incentives and fear", similiar to the Hierarcy of Needs the first few (two-three) tiers in the pyramid model refer to survival and the following that factors that trail behind the lack of ability to access the basic needs to survive are fear and incentive, thus it is easy to relate the two theorys in the beggining tiers (D-needs) of the Hierarcy of Needs model. 
 
-and "Hierarcy of Needs"  two motivational theories covered above relate 
+Though in comparision to the carrot and stick theory, the Hierarcy of Needs covers a more indepth analysis into what may motivate someone not just briefly stating that incentive and fear are the driving forces behind motivation, but splitting the theory into a 
+five layered ordered model, pertaining to the idea that certain needs take precidence over others for instance physiological needs must first be met before security needs and not vice versa. 
 
-and covered under the heading
+Thereafter the theories do not clash but rather collate, with the Hierarcy of Needs theory merely exapanding on the Carrot and Stick
+motivational theory formed in the 1800's, delving more into the incentives one may crave (self fufilment, Pyschological needs,Basic Needs) and the fears one may experience during a peroid of work (stress).
+
+
+References used: 
+
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
+https://www.simplypsychology.org/maslow.html
 
 ### Importance of team dynamics in the success and/or failure of group work
 
