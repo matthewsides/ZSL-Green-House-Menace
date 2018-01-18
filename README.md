@@ -323,9 +323,12 @@ This week’s sprints first started with our group meeting and discussing what w
 
 Hierarcy of Needs
 
-Carrot and Stick
+The Hierarcy of needs, developed by Psychologist Abraham Maslow, is a motivational theory comprising a five tier model of human needs, often depicted as hierarchical levels within a pyramid. Maslow (1943, 1954) stated that people are motivated to achieve certain needs and that some needs take precedence over others. Moreover once one level is attained it is human nature to move onto the next and what further motivates us.
+
 
 Motivation-Hygiene Theory
+
+
 
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 
