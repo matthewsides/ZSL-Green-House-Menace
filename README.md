@@ -416,7 +416,10 @@ With regards to the project as a whole the project itself can be viewed as a pro
 
 ### Critique of the proccess used to give critical Reasoning
 
-The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions,consisted of considering  whether the choice made was approriate, also further questioning as to if there were any other alternatives to said decision before and after application.  were forthright in regards or relation to the project, though 
+The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions,consisted of considering  whether the choice made was approriate, also further questioning as to if there were any other alternatives to said decision before and after application. Moreover then reading through the documented plan  and researching as to what could have been improved upon, other methods or ideas that can or could have been used, essentially comparing or using other documented information relating to what is being overlooked and seeing as to what method or ideology would have or better suits the situation and work. 
 
-The proccess of critically analysing and questioning the steps that were proceeded through 
+In regards as to the steps that could have been taken to further improve the critique proccess, rather than just analysing documented information or written work, vocal or verbal feedback could have helped influencing decisions and aiding the evaulation of work using critical reasoning, getting a more solid idea as to the hidden problems with said planning and decisions rather than just comparing work (second opinion), ensuring the same mistakes are not encountered on future projects.
+
+
+
 
