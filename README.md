@@ -386,12 +386,17 @@ The ZSL project hailed the use of numerous problem solving techniques during the
 
 -Process evaluation: Problems can be approached by breaking systems into sections which can be analyzed for the source of the problem.
 
--Word analysis By focusing on the essential questions; who, what, where, why, when, and how; team members can gather the essential facts about a problem without dealing with confusing details.
+-Word analysis: Through focusing on the essential questions; who, what, where, why, when, and how; team members can gather the essential facts about a problem without dealing with confusing details.
+
+-Data collection: By making sure relevant information is collected, team members can develop a more suitable response.
 
 References- 
 
 https://www.mediate.com/articles/thicks.cfm
 http://www.brighthubpm.com/resource-management/87541-problem-solving-techniques-in-project-management/
+https://www.project-management-skills.com/problem-solving-techniques.html
+http://www.managers.org.uk/knowledge-bank/problem-solving
+http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
 ### Justification of use of solution Methodologies
 
