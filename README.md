@@ -393,9 +393,13 @@ The ZSL project hailed the use of numerous problem solving techniques during the
 References- 
 
 https://www.mediate.com/articles/thicks.cfm
+
 http://www.brighthubpm.com/resource-management/87541-problem-solving-techniques-in-project-management/
+
 https://www.project-management-skills.com/problem-solving-techniques.html
+
 http://www.managers.org.uk/knowledge-bank/problem-solving
+
 http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
 ### Justification of use of solution Methodologies
