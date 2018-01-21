@@ -383,4 +383,13 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
+#### Justification of use of solution Methodologies
+
+Throughout the project numerous encounters left the group unable to further progress until a solution was found to a certain problem, detailing the problems, methods and solutions, justification for the steps taken when encountered with said problem may be found in the below paragraphs. 
+
+The project was approximently 6 weeks in length, within that time the group was tasked with making an educational application for kids, focusing in particular on the green house gas chain, during the coding  and conceptual design phase of the project one such problem that occurred though not evident until ported to Ipad devices (the chosen system for the applicaiton to run on)  was that the dimesions of the frame outscaled the device, meaning that the application went of screen and certain features were not able to be accessed. 
+
+Thus problem solving meetings occurred to objectively address the issues that threaten the project. This was particuarly benifical as it encouraged open experession with the perspective of all those involved in solving the problem being contributed to identifying possible options to solve the problem and then selecting the best solution from those possibilities.
+
+In correlation to the above method of internal meetings, external outsourcing for solutions through the web and other groups were also carried out, to seek their views and other possible ways to fix a problem, this can be seen to be successful during the project as inrelation to the illustrated problem put out in the second paragraph, one of the groups that was consulted encountered the same problem ealier on in the project and thus helped solve a problem that otherwise would have been elongated.
 
