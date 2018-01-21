@@ -414,3 +414,9 @@ In correlation to the above method of internal meetings, external outsourcing fo
 
 With regards to the project as a whole the project itself can be viewed as a problem that the client requires to be solved, thereafter the method of proccess evalution breaking the project down was applied, seperating theses broken tasks and sharing among group members to accomplish, thus ensuring optimal efficency and increasing the rate at which the project as a whole would be completed. The use of this method can be further justified as through proccess evaluation in particular to the latter stage of the project enabled a solid idea to come to fruition. 
 
+### Critique of the proccess used to give critical Reasoning
+
+The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions, could have been 
+
+The proccess of critically analysing and questioning the steps that were proceeded through 
+
