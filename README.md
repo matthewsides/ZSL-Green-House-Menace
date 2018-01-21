@@ -284,11 +284,6 @@ Tasks for 9th-15th
 #### Monday 16th Sprint 2
 
 
-
-
-
-
-
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
@@ -392,4 +387,6 @@ The project was approximently 6 weeks in length, within that time the group was 
 Thus problem solving meetings occurred to objectively address the issues that threaten the project. This was particuarly benifical as it encouraged open experession with the perspective of all those involved in solving the problem being contributed to identifying possible options to solve the problem and then selecting the best solution from those possibilities.
 
 In correlation to the above method of internal meetings, external outsourcing for solutions through the web and other groups were also carried out, to seek their views and other possible ways to fix a problem, this can be seen to be successful during the project as inrelation to the illustrated problem put out in the second paragraph, one of the groups that was consulted encountered the same problem ealier on in the project and thus helped solve a problem that otherwise would have been elongated. Further illiterating this point the solution involved altering a setting native to the Unity software, which is pre-set until manually changed (resolution setting/option).
+
+With regards to the project as a whole the project itself can be viewed as a problem that the client requires to be solved, thereafter the method of proccess evalution breaking the project down was applied, seperating theses broken tasks and sharing among group members to accomplish thus ensuring optimal efficency and increasing the rate at which the project as a whole would be completed. The use of this method can be further justified as through proccess evaluation in particular to the latter stage of the project enabled a solid idea to come to fruition. 
 
