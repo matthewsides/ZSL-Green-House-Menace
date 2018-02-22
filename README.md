@@ -103,8 +103,6 @@ Moreover linking in with the compatability point in this project the client want
 
 Thereafter the decision was essentially made after evaulating the ease of use, compatability with other software in use, a comparision of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
 
-
-
 ## [4] Game Mechanics | InGame Elements
 
 ### Camera 
@@ -313,6 +311,48 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ## [6] Evalutation 
 
+### Tools and Techniques
+
+Tools -
+
+Photoshop -
+
+Photoshop an adobe listed tool was used for graphical manipulation, essentially taking pre-made or shot photos and converting them into game graphics for are own use, the lead graphic designer Luke brundi was in charge of said manipulation and creation of graphics taking  numerous images, merging said images into one layer, then using photoshops pre-set filters to differentiate the images from the originals and ensure that the graphics were applicable and suitable to the asthetic requested and set to be used in the design and creation of the application. 
+
+Github -
+
+The staple of the project and origin for all documentation, github was essentially used to store and  trade documentation between the group, since it was not plausable to expect all group members to be avaliable 24/7 for review of their documentation and work. This was also to ensure work was not misconstruded or misplaced enabling the client full access to the design and management documentation during production so that they may review the current situation and whether there were any minute alterications that may have been needed to be made to better meet their expectations and standards. 
+
+Unity -
+
+The builder for the foundation for the application, unity was used to essentially create and form the application. The reason for Unity being chosen was due to an effective anaylisis or measure of relativity between other IDE's. This showed thhhhat Unity was essentially the most proficent and best option due to unitys wide range of languages avliable, compatability with are and the clinets suystems as well as code snippets and tools that maybe and were used to save and use time more efficently. The  previous point also links in to the following point being that the group was new to the majority of Intergrated development enviroments and therefore unity was chosen due to its ease of use.
+
+Power Point -
+
+Power Point was a crucial aspect for the success of the application and used for the production of numerous presentations throughtout the project, this is evident from when the client first attended to see the conceptual ideas in which the group had thought and construded, a presentation was used for better interpretation the ideas in which the group had thought of and how we would adapt the clients requirements into an application (app form).
+
+Although power point was not only used in the presentation and illustration of conceptual forms, but rather also in the final phase of production, where the group visited the clientele region of operations, in which a demo was presentated along with a power point presentation to better convey the ideas behind and shown in the demo furthering the points made through vocal/verbal communication (talk), giving a visual view and effect.
+
+Further delving into powerpoint as a program and the reasons for using the software to meet certain aspects and complete the project, the ease of use once again played a pivotal role due to all the group members being adept in microsoft applications (as it is ingrained into the system), whilst with recent technological advancements it is possible to collaborate online and work on one document specifically using microsoft applications on google drive, power point being one of said applications. 
+
+Techniques -
+
+Interviews -
+
+Through out the project there were numerous times interviews were held with the client ZSL.The first being a formal introduction lead by michelle, a ZSL employee detailing the standards that ZSL expect as well as the overall specifications. Subsequntly during this interview notes were taken by all acceding or participating groups, asking questions when necessary to get a better idea or outlook as to what the client envisions the final outcome to be. 
+
+Following said interview, another interview held at a later interval or date took place going into detail on the conceptual designs that had been made based on the information gathered and given in the first interview, during this phase information was retrieved, garnering 
+feedback based around what was shown to better improve the product to suits the clients needs until the final review.
+
+Subsequently the last interview pertained to the final presentation of the game's ideas and a working demo, in which feedback was once again retrieved and questions thrown out from the client and other people of intrest answered. 
+
+Prototyping -
+
+Protoyping another intergral technique used in the project was applied whilst creating the application in unity, testing was used to quarter of sections of code based on there functionality and purpose to see whether any errors occurred whilst in running, back ups were also saved to ensure that there were no set backs during this phase and throughtout coding. This also ensured that it would be easier to find errors in the programming and system, since if an error did occur it is more likely to either be the new code conflicting with another line of code or an issue within the code chunk (block) itself.
+
+Presentations -
+
+The project required monumental metholodgy,ideology and clear communication to ensure that the clients vision was met to an acceptable standard. This was achieved through excellent vocal skills and visual presentation, using the visual aspect as a way to empower the vocalisation and words spoken about the application giving the client an overall view of are interpretation of there requirements. Further grasping the clients attention using body language and speaking skills to present the work and get the point across, essentially using the presentations held throughout the project as a means of communiction and review with the client to ensure a certain standard was upheld and the final product was sold and acceptable. 
 
 ### Motivational theories, contrast and impact on the workplace
 
