@@ -311,6 +311,21 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ## [6] Evalutation 
 
+### How user and software requirements have been addressed (Generalised)
+
+User and software requirements have been addressed through concurrent anaylisis seperating and following an infrastructured system that details the overall expectation, then breaking down said initiative into a few EPICS, thereafter anaylising all the aspects of the EPICS and turning them into key components or stories and tasks of what the user would expect from the software, further making it easier to define the softwares functions and oversee the project through management and production, with said stories being another way to define the tasks that require undertaking to meet what was set during the formation of said projects EPICS. Thereafter the once all the tasks have been completed it would also mean the completion of said EPICS and therefore mean that the initiative should be met.
+
+Incontinuation of the points above the use of such a breakdown methodlogy also makes it easier to define and form the software requirements as what the user would want or expect is thought and therefore what is required to be built into the software is formed through the user requirements. Moreover the user and software requirements also further the software requirements in or with regards to the software set to be used and applied for production.
+
+The image below pertains or details the hierachy and how user and software requirments are broken down and addressed-
+
+
+
+
+
+In regards to the ZSL project an example may be seen through the sprints (Iteration where team does the work) in the project backlog, displaying clearly a project break down into tasks that all pertain to the production of the ZSL application.
+
+
 ### Tools and Techniques
 
 Tools -
