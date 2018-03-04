@@ -45,12 +45,13 @@ In addition, graphics were procured for the implementation and aesthetic of the 
 
 
 | ID | Description | Amount |	Expenses |	Total |
-| 1	|Unity Software |	5 |	£447.95	| |
-| 2	|Mini Van/Bus	| 1	| £150	| |
-| 3	|Application Graphics | 0 |	£0.00	| |
-| 4	|Visual Studios |	0	|£0.00	| |
-| 5	|Microsoft Applications |	0 |	£0.00	| |
-|	|			| | | £597.95 | 
+|----|-------------|--------|----------|--------|
+| 1	|Unity Software|	5     |	£447.95	 |        |
+| 2	|Mini Van/Bus	 | 1	    | £150	   |        |
+| 3	|Application Graphics | 0 |	£0.00	 |        |
+| 4	|Visual Studios |	0	   |£0.00	     |        |
+| 5	|Microsoft Applications |	0 |	£0.00|        |
+|	  |			         |        |          | £597.95| 
 
 
 ## [5] Project Backlog
