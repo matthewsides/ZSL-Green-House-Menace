@@ -53,6 +53,38 @@ In addition, graphics were procured for the implementation and aesthetic of the 
 | 5	|Microsoft Applications |	0 |	£0.00|        |
 |	  |			         |        |          | £597.95| 
 
+### Quality Assurance Preface[1.5]
+
+The purpose of Reboot Games and are group development team is to provide an acceptable application that caters to said clients specifications, giving  internal quality assurance guidance. 
+This will be attained through notifying clients during the development ensuring ZSL is kept up to date, further doing tests throughout the production of said application, ensuring functionality, ease of use and that the application meets the standards expected by the client.
+Following the tests that will ensue, prototypes and demos will be formulated, to garner notice and consideration, showcasing the groups capabilities , whilst also enabling the client to view progress and gain a better understanding of how the final product will function and look.
+In addition schedules will be drafted, with the project being delegated into tasks that have a set time frame in which to be completed, allowing more deliberation, testing segments rather than the whole application making it easier to locate flaws within the system and delegate tasks, thus improving the whole project infrastructure and making the project more organised and time efficient.
+The above methods will better ensure quality assurance and that the application meets client standards and suits their needs, further involving the client in the development ensuring smooth communication and structured organisation.
+
+### Time (Gantt Chart)[1.6]
+
+
+
+
+
+
+### Communication [1.7]
+
+The steps the group is taking to ensure fluent communication consists of the usage of numerous platforms, for instance facebook messenger for text based chat, discord for audio based communication and email for whether any documentation needs to be sent and verified by other group members.
+Furthermore other forms of communication consist of verbal and face to face, setting up meetings throughout the development to ensure that the group is not replicating and regurgitating  similar pieces of work.
+In addition making sure that the group is on schedule and meeting certain set standards, leaving time for a review of work concurrently completed during said time frame. The current times the group is set to meet up have not yet been disclosed other than it would be during the half term in which the location will be Watford, West Herts College. Though the meeting is likely to take place during the duration of three days, with members attending; Monday, Tuesday and Wednesday. 
+
+### Risks [1.8]
+
+|ID	|Risks	Category|Level|	Probability	|Effect	|Mitigation|
+|----|-------------|--------|----------|--------|----------|
+|1	|Misinterpretation of Client's ideas| 	Medium|	40%|	The foremost effect would be that after the second meeting showcasing the projects progress thus far, the client would either drop the project or call for a re evaluation of their requirements.|	Communication would be the method of mitigation in regards to this risk, further assuring the client, thereafter re- organising the team and evaluating the current position of the project and where it needs to be with regards to meeting the clients standards, planning the next course of action, not wholly scraping the original ideas but also not using it as the basis.|
+|2|	Misconstruction of the game engine|	Low|	15%|	Unity, the currently elected game engine to be used in the development of said application, could wrought appalling effects on the projects outcome if the engines basics are not understood within the time frame provided, causing the project demo to either be delayed or cancelled. 	|Though unlikely since analysis was already undertaken during the consideration of numerous game engines.
+If the engine appeared to cause inconvenience, the ideal solution would be to find another engine that is compatible with the language applied, transferring any code over to the new engine. |
+|3|	Time or not following schedule|	Medium	|30%	|Through not abiding or following a pre revised schedule as well as the times and dates of the events already confirmed outside the groups control.  The problems that occur will link to how efficiently and quickly the project is completed, also affecting the final outcome with regards to the standard the application measures at.|	If a schedule is not being followed the mitigation and alleviation of said problem would be to re-tune the current schedule to meet and suit both the clients and groups needs.|
+|4|	Costs or going over the set balance	|Low	|5%	|This would be of major consequence since it would mean that if any more graphics or other resources were needed to be procured the group would be unable to do so.|	Possible mitigation would be to levy and negotiate with the client or organisation for more funds drawing up possible reasons as to why the funding is necessary and how it would benefit them. Whilst with regards to prevention it would be ideal to draw out a plan, deciding what is more essential to the development of the project and transferring resources based on that factor.|
+
+
 
 ## [5] Project Backlog
 Group Details
