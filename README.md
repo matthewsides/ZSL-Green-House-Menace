@@ -83,6 +83,15 @@ In addition making sure that the group is on schedule and meeting certain set st
 |3|	Time or not following schedule|	Medium	|30%	|Through not abiding or following a pre revised schedule as well as the times and dates of the events already confirmed outside the groups control.  The problems that occur will link to how efficiently and quickly the project is completed, also affecting the final outcome with regards to the standard the application measures at.|	If a schedule is not being followed the mitigation and alleviation of said problem would be to re-tune the current schedule to meet and suit both the clients and groups needs.|
 |4|	Costs or going over the set balance	|Low	|5%	|This would be of major consequence since it would mean that if any more graphics or other resources were needed to be procured the group would be unable to do so.|	Possible mitigation would be to levy and negotiate with the client or organisation for more funds drawing up possible reasons as to why the funding is necessary and how it would benefit them. Whilst with regards to prevention it would be ideal to draw out a plan, deciding what is more essential to the development of the project and transferring resources based on that factor.|
 
+### Resources[1.9]
+
+|ID	|Resource |Name	|Convention|
+|---|---------|-----|----------|
+|1	|Unity	|Unity a cross platform game engine, set to be used  during the production of the two dimensional application.|
+|2|	Application Graphics|	Resource will be used to improve the overall aesthetic of the application.|
+|3	|Visual Studios|	Visual Studios will be the main integrated development environment used for coding.|
+|4	|Mini Van|	This resource (Mini Van) is the transport, in which will take the group to the pre-determined event to showcase said application.|
+|5	|Microsoft Applications|	The Resource termed "Microsoft applications", pertains specifically to excel, power point and word set to be used in the development of a documentation and presentations.|
 
 
 ## [5] Project Backlog
