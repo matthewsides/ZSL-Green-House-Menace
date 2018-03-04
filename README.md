@@ -1,234 +1,57 @@
 # ZSL Application
 
-## [1] Design History
-Version 1.0
+Group: Matthew Sides, Joe, Luke, Sam, Luke
 
-Produced by Matthew Sides, Sam,Luke,Luke and Joe
+West Herts College, Watford 
+
+Hertfordshire, England
+
+Last Update: 19/02/2018
+
 
 01/11/2017
 
-## Table of contents
+## Table of Contents
 
-[1] Design History
+[1] Project Management
 
-[2] Game Overview
+[2] Design
 
-[3] Specification
+[3] Evaluation
 
-[4] Game Mechanics | InGame Elements
+## Project Management [1]
 
-[5] Project Backlog
+### Introduction [1.1]
 
-[6] Evalutation 
+This document specifies a project management plan and design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Greenhouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
-## [2] GameOverview
+### Scope [1.2]
 
-### Introduction
+This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
-This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
+### Aims and Objectives [1.3]
 
-### Scope
+	Create an app based around a Green House Gas Chain
+	Produce and Implement a Drag and Drop System
+	Satisfy client requirements to an acceptable standard
+	Incorporate 4 areas based around geographical terrain 
+	Make the app functional and compatible in said target system (I pad)
+	Produce a demo and present ideas to the client (based on the clients specifications)
 
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
+### Costs [1.4]
 
+The expenditure of the project amounts to approximately £597.95, this is primarily due to software costs (unity), a tool set to be used in the development of the application. Whilst the secondary reason is due to the inclusion or requirement of a Mini Bus/Van rented and used for the transportation of an event, pertaining to the demonstration of the conceptual phase and demo of the application “Greenhouse Menace” to the client.
+In addition, graphics were procured for the implementation and aesthetic of the application, though no additional costs were required since all the graphics were found in the free domain and eventually altered by are graphic designer Luke, with minor altercations and additions taken from the unity store (UI Graphics listed as free) during implementation by the lead programmer Matthew.
 
-## [3] Specification
 
-### Concept
+| ID | Description | Amount |	Expenses |	Total |
+| 1	|Unity Software |	5 |	£447.95	| |
+| 2	|Mini Van/Bus	| 1	| £150	| |
+| 3	|Application Graphics | 0 |	£0.00	| |
+| 4	|Visual Studios |	0	|£0.00	| |
+| 5	|Microsoft Applications |	0 |	£0.00	| |
+|	|			| | | £597.95 | 
 
-The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change). 
-
-### Story 
-
-The story relates to the green house gases and chain, of the production and manufacturing proccess of four products to four habitats. The user is presented with the production and manufacutring proccess or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the proccess once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emmitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
-
-### Setting
-
-This game will be set in the present/modern day. 
-
-### Application Structure 
-
-The Menu will consist of four images, each representating a different area or enviroment. 
-In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
-
-<img src="BackgroundWithDividers.png" alt="GameMenu"
-     title="GameMenu" />
-
-
-Furthermore the graphic styles within the enviroments and menu will be consistent throughout, though what is represented within each area and the colour palette will change so that differentiation may be made for the 4 different areas (Tundra, Rain Forest, British countryside and the Ocean).
-
-Once an area or habitat has been clicked on a comic strip will be shown spanning one to two scenes (pages) showing the manufacturing and production proccess of a product relevant to that enviroment. Moreover after the comic strips have faded the game screen will appear with an empty chain and numerous draggable images, which need to be put by a user in a specific order. 
-
-After the green house gas chain has been compeleted and put into the correct order, more images are presented showing what could be done to help alleviate the amount of gases released,with pledges then being presented once the images have been removed from the screen with the user given a choice.
-
-Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
-
-### Players | Platform
-
-The application will adhere to 11-16 year olds, being compatible on the following system;
-
-Apple-IPAD-IOS-Chrome
-
-The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
-
-### Genre 
-
-	2D
-
-	Educational
-
-	Memory Game
-
-### Intended Audience
-
-The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
-
-### Sound Consideration
-
-The game is not sound dependant since it was requested by the client(no sound or audio).
-
-### Language 
-
-The only language avaliable in the game will be english. 
-
-### IDE
-
-Inregards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, whilst both are considerate in regards to layout,tools, etc. and target beginners (with visual studios also targeting other demographics). 
-
-Thereafter now that two IDE's (both text editors) had been chosen it was necassary to decide which one to use, considering in particular the tools as well as the ease of use. In the end visual studios was chosen since it is compatiable with unity (works inconjunction and automatically opened attempting to program when in unity) which in itself is a program that provides flexability, adaptability and overall makes the development easier and more smooth. 
-
-Whilst language was also integral in the decision though as C# was used as the language since it was the only avliable language in unity that was avaliable to the group at the beggining since other languages arent  appplicable in unity until  a premumium subscription is purchased, whilst C# also has some simialities to C++ (the intended/initially proposed language to be applied and used), in addition since not all IDE's may use all programming languages it was necassary to check to ensure that visual studios would be compatiable with C#, evidently visual studios does allow the incorparation of C#, whilst notepad++ is compatiable with all languages (useful for some circumstances, but not in this instance since visual studios is also compatiable).
-
-Moreover linking in with the compatability point in this project the client wanted the app to be hosted on a website using Ipads to access the website.Therefore it was recommended/decided that WebGL would be used as it is compatiable with chrome and can function to an extent in safari, this is also another reeason as to why unity was used and the language and IDE was chosen for the development of the application. 
-
-Thereafter the decision was essentially made after evaulating the ease of use, compatability with other software in use, a comparision of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
-
-## [4] Game Mechanics | InGame Elements
-
-### Camera 
-
-The camera will be projected from a 2D front side angle of the menu, comics, pledges  and chain.
-
-### General Movement
-
-The users will be able to drop and drag certain objects across the screen (for the chain segment).
-Whilst users will also be able to use the tap function (on the menu and comic slides to transition between scenes).
-
-### Fonts
-
-Ingame Font: 
-Jupiter (Menu,Game Screen)
-.... (Comic Font)
-
-### In Game Text
-
-Menu Text-
-Tundra
-Ocean
-British Country Side
-Rain Forest
-
-Rain Forest | Mobile Phone Comic Strip | Production Green House Gas Chain-
-1. Mining takes place in the forest which releases carbon as oil drilling rigs and mines are constructed, installed and run to extract raw materials which are mainly native to rainforests.
-2. The raw materials are then transported to factories in China, Taiwan, Japan or Korea releasing carbon in the process.
-3. In theses factory's raw materials are made into usable phone parts, releasing carbon as electricity is generated in the process. 
-4. The mobile phones are then packaged releasing more carbon.
-5. During transportation of the phones to the phone shop further carbon is released.
-6. In the Phone shop electricity powers lights, computers, heating, water and many more resources produce excess amounts of carbon. 
-7. Carbon is also released as customers travel to the phone shop.
-8. Once the phone is purchased and plugged in to charge additional carbon is excelled. 
-9.More carbon is released as more resources are mined if the phone is not recycled creating a cycle.   
-Rainforest Comic Strip | Images | Shows 3 things that could be done - 
-what can be done: 
-Recycle old Mobile Phones 
-Take Better care of the Phone
-Reconsider upgrading if the phone works ok
-British Countryside |Beef Comic strip |Production Greenhouse Gas Chain-
-1. trees and plants are cut down to make space for cows and to grow their feed thus releasing Greenhouse Gases.
-2. Carbon is also  released from pesticides that are put on cow feed to stop them being damaged by pests. Even the production of pesticides produces greenhouse gases.
-3. Carbon and nitrous oxide are released from fertilisers that are used to help cow feed grow.
- 4. when electricity pumps water from rivers/reservoirs/streams etc. to provide drink for the cows and to water their feed in the fields more carbon is released.
-5. Carbon is also released when farm vehicles and machinery are used on the farm and fields.
-6. Methane is also released when grazing cows pass wind. 
-7. During transportation of livestock to slay, carbon is released when.
-8 Electricity powers such as fridges, lights, computers, water and m more resources found in a slaughter house release carbon.
-9. From the production of the materials used to package the beef carbon is released.
-10. When beef is transported to the shops and restaurants carbon is released. Sometimes it is flown over from a different country!
-11. Carbon is released as electricity powers fridges, lights, computers, heating, water and many more resources in the shops and restaurants. 
-12. Additional carbon released as customers travel to the shops and restaurants.
-13. Methane is released as beef and packaging decomposes in landfill.
-Countryside Comic Strip | Images | Shows 3 things that could be done - 
-What can be done:
-eat less beef (skip eating beef for one day a week)
-throw beef and any other food if possible in a special waste bin
-When ordering food pick an alternative meat instead of beef (or a vegetarian option)
-Ocean | Plastic Bottle comic strip |production Green House gas chain-
-1. As drilling rigs are constructed, installed and run carbon is released. 
-2. Carbon is also further released as oil is transported via pipes/ships to treatment plants.
-3.  Electricity is then required to clean the oil releasing more carbon.
-4. As oil is transported via pipes/ships/rail/tankers to manufacturers additonal Carbon is released.
-5. Further carbon is released when electricity is generated to form the oil into plastic bottles and lids.
-6. The empty bottles are then transported to a bottling plant generating more carbon.
-7. machinery then fills the empty bottles with drink releasing more carbon!
-8. Carbon is also released during packaging.
-9. After Packaging more carbon is released as plastic bottles are transported to shops and restaurants.
-10. Electrical powers like fridges, lights, computers, heating, water and many more resources in the shops and restaurants cause more carbons to be released. 
-11.Moreover Carbon is released as customers travel to the shops and restaurants.
-12. Methane is also released as plastic bottle decomposes in landfill. 
-Ocean | Plastic Bottle comic strip |Images | Shows 3 things that could be done - 
-what can be done: 
-Reuse a bottle instead of buying a new one
-Recycle Plastic Bottles
-Ask for tap water when eating out
-
-Tundra |Arctic | Electronics left on standby comic strip | production Greenhouse Gas Chain-
-1. Natural gas drilling rigs are constructed, installed and run in the Tundra, which releases carbon.
-2. natural gas is then transported via pipes/ships/tankers to treatment plants releasing more carbon.
-3. Carbon is also released as electricity is required to clean and dry the natural gas. 
-4. Natural gas is usually odorised so people can smell it and be alerted to a gas leak, though this causes the release of carbon.
-5. As natural gas is transported via pipes/ships/tankers to power stations in the UK further carbon is excelled. 
-6. The natural gas is then burned in power stations to drive turbines, which then produces electricity but also releases carbon in the process.
-7. Additionally carbon is  released as electricity is needed for pylons/power lines to carry electricity. 
-8. 15kg of carbon waster per year by leaving TV on standby.
-Tundra | Arctic | Electronics left on standby comic strip |Images | Shows 3 things that could be done - 
-what can be done: 
-Switch off electronics of standby when not in use
-Switch of lights when not in use
-Unplug Mobile phone charger from wall
-
-Pledges by Habitat:
-Text (on pledges screen)
-1. Write School name
-Countryside
-1.	I will try to skip eating beef (and better yet, meat!) for one day a week (you could follow @meatfreemonday).
-2.	If I have access to a special food waste bin, I will throw beef (and any other food waste) in it.
-3.	When ordering food, I will pick an alternative meat (or better yet, a vegetarian option) instead of beef .
-
-Ocean
-1.	I will use a reusable bottle instead of buying single use plastic bottles.
-2.	I will recycle any plastic bottles I use.
-3.	If I want water when eating out, I will ask for tap water instead of getting it in a plastic bottle.
-
-Arctic Tundra
-1.	I will switch electronics off of standby when I am not using them.
-2.	I will switch light switches off when I am not using them .
-3.	I will unplug my mobile phone charger from the wall.
-
-Rainforest
-1.	I will reconsider upgrading my phone every year/two years if it still works okay.
-2.	I will take care of my phone to make it last as long as possible.
-3.	I will recycle my phone instead of throwing it in landfill.
-
-Interesting Fact (One per Habitat) | Shown in game screen once button is pressed on bottom of the screen
-
-British Countryside
-1.Nitrous oxide is 300 times more harmful to the environment than carbon.
-Ocean
-1. Methane is 23 times more harmful to the environment than carbon.
-Rain Forest
-1. 80% of the carbon footprint of a phone happened before it’s turned on for the first time!
-Tundra
-1.  9-16% of the electricity consumed in homes is used to power appliances when they are in standby mode.
 
 ## [5] Project Backlog
 Group Details
