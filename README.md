@@ -6,8 +6,9 @@ West Herts College, Watford
 
 Hertfordshire, England
 
-Last Update: 19/02/2018
+Last Update: 04/03/2018
 
+19/02/2018
 
 01/11/2017
 
@@ -63,8 +64,7 @@ The above methods will better ensure quality assurance and that the application 
 
 ### Time (Gantt Chart)[1.6]
 
-
-
+![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
 
 
 
