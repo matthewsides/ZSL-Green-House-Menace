@@ -85,8 +85,8 @@ In addition making sure that the group is on schedule and meeting certain set st
 
 ### Resources[1.9]
 
-|ID	|Resource |Name	|Convention|
-|---|---------|-----|----------|
+|ID	|Resource Name	|Convention|
+|---|---------|----------|
 |1	|Unity	|Unity a cross platform game engine, set to be used  during the production of the two dimensional application.|
 |2|	Application Graphics|	Resource will be used to improve the overall aesthetic of the application.|
 |3	|Visual Studios|	Visual Studios will be the main integrated development environment used for coding.|
