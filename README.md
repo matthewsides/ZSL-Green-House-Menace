@@ -93,8 +93,20 @@ In addition making sure that the group is on schedule and meeting certain set st
 |4	|Mini Van|	This resource (Mini Van) is the transport, in which will take the group to the pre-determined event to showcase said application.|
 |5	|Microsoft Applications|	The Resource termed "Microsoft applications", pertains specifically to excel, power point and word set to be used in the development of a documentation and presentations.|
 
+### IDE [1.9.1]
 
-## [5] Project Backlog
+In regards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, whilst both are considerate in regards to layout, tools, etc. and target beginners (with visual studios also targeting other demographics). 
+
+Thereafter now that two IDE's (both text editors) had been chosen it was necessary to decide which one to use, considering in particular the tools as well as the ease of use. In the end visual studios was chosen since it is compatible with unity (works in conjunction and automatically opened attempting to program when in unity) which in itself is a program that provides flexibility, adaptability and overall makes the development easier and more smooth. 
+
+Whilst language was also integral in the decision though as C# was used as the language since it was the only available language in unity that was available to the group at the beginning since other languages aren't  applicable in unity until  a premium subscription is purchased, whilst C# also has some similarities to C++ (the intended/initially proposed language to be applied and used), in addition since not all IDE's may use all programming languages it was necessary to check to ensure that visual studios would be compatible with C#, evidently visual studios does allow the incorporation of C#, whilst notepad++ is compatible with all languages (useful for some circumstances, but not in this instance since visual studios is also compatible).
+
+Moreover linking in with the compatibility point in this project the client wanted the app to be hosted on a website using Ipads to access the website. Therefore it was recommended/decided that WebGL would be used as it is compatible with chrome and can function to an extent in safari, this is also another reason as to why unity was used and the language and IDE was chosen for the development of the application. 
+
+Thereafter the decision was essentially made after evaluating the ease of use, compatibility with other software in use, a comparison of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
+
+### Project Backlog [1.9.2]
+
 Group Details
 
 Group Name: Ducks and Bucks
@@ -108,7 +120,7 @@ Project Specification
 
 ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
 
-Schedule
+Schedule:
 
 -Monday 2nd-Sunday 8th: Create Idea for project
 
@@ -171,11 +183,185 @@ This week’s sprints first started with our group meeting and discussing what w
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
-### Research
 
-## [6] Evalutation 
+## Design [2]
 
-### How user and software requirements have been addressed (Generalised)
+### Concept [2.1]
+
+The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change).
+
+### Story [2.2]
+
+The story relates to the green house gases and chain, of the production and manufacturing process of four products to four habitats. The user is presented with the production and manufacturing process or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the process once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
+
+### Setting [2.3] 
+
+This game will be set in the present/modern day.
+
+### Application Structure[2.4]
+
+The Menu will consist of four images, each representing a different area or environment. 
+In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
+
+Furthermore the graphic styles within the environments and menu will be consistent throughout, though what is represented within each area and the colour palette will change so that differentiation may be made for the 4 different areas (Tundra, Rain Forest, British countryside and the Ocean).
+
+Once an area or habitat has been clicked on a comic strip will be shown spanning one to two scenes (pages) showing the manufacturing and production process of a product relevant to that environment. Moreover after the comic strips have faded the game screen will appear with an empty chain and numerous drag-able images, which need to be put by a user in a specific order. 
+After the green house gas chain has been completed and put into the correct order, more images are presented showing what could be done to help alleviate the amount of gases released, with pledges then being presented once the images have been removed from the screen with the user given a choice.
+Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
+
+### Player | Platform [2.5]
+
+The application will adhere to 11-16 year olds, being compatible on the following system;
+Apple-IPAD-IOS-Chrome
+The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
+
+### Genre [2.6]
+2D
+Educational
+Memory Game
+
+### Intended Audience[2.7]
+
+The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
+
+
+### Sound Consideration[2.8]
+
+The game is not sound dependant since it was requested by the client(no sound or audio).
+
+### Language [2.9]
+
+The only language available in the game will be English.
+
+### Camera [2.9.1.]
+
+The camera will be projected from a 2D front side angle of the menu, comics, pledges  and chain.
+
+### General Movement [2.9.2]
+
+The users will be able to drop and drag certain objects across the screen (for the chain segment).
+Whilst users will also be able to use the tap function (on the menu and comic slides to transition between scenes).
+
+### Fonts[2.9.3]
+
+In game Font: 
+Jupiter (Menu, Game Screen)
+.... (Comic Font)
+
+### In Game Text[2.9.4]
+
+Menu Text-
+Tundra
+Ocean
+British Country Side
+Rain Forest
+
+Rain Forest | Mobile Phone Comic Strip | Production Green House Gas Chain-
+1. Mining takes place in the forest which releases carbon as oil drilling rigs and mines are constructed, installed and run to extract raw materials which are mainly native to rainforests.
+2. The raw materials are then transported to factories in China, Taiwan, Japan or Korea releasing carbon in the process.
+3. In theses factory's raw materials are made into usable phone parts, releasing carbon as electricity is generated in the process. 
+4. The mobile phones are then packaged releasing more carbon.
+5. During transportation of the phones to the phone shop further carbon is released.
+6. In the Phone shop electricity powers lights, computers, heating, water and many more resources produce excess amounts of carbon. 
+7. Carbon is also released as customers travel to the phone shop.
+8. Once the phone is purchased and plugged in to charge additional carbon is excelled. 
+9.More carbon is released as more resources are mined if the phone is not recycled creating a cycle.   
+Rainforest Comic Strip | Images | Shows 3 things that could be done - 
+what can be done: 
+Recycle old Mobile Phones 
+Take Better care of the Phone
+Reconsider upgrading if the phone works ok
+British Countryside |Beef Comic strip |Production Greenhouse Gas Chain-
+1. trees and plants are cut down to make space for cows and to grow their feed thus releasing Greenhouse Gases.
+2. Carbon is also  released from pesticides that are put on cow feed to stop them being damaged by pests. Even the production of pesticides produces greenhouse gases.
+3. Carbon and nitrous oxide are released from fertilisers that are used to help cow feed grow.
+ 4. when electricity pumps water from rivers/reservoirs/streams etc. to provide drink for the cows and to water their feed in the fields more carbon is released.
+5. Carbon is also released when farm vehicles and machinery are used on the farm and fields.
+6. Methane is also released when grazing cows pass wind. 
+7. During transportation of livestock to slay, carbon is released when.
+8 Electricity powers such as fridges, lights, computers, water and m more resources found in a slaughter house release carbon.
+9. From the production of the materials used to package the beef carbon is released.
+10. When beef is transported to the shops and restaurants carbon is released. Sometimes it is flown over from a different country!
+11. Carbon is released as electricity powers fridges, lights, computers, heating, water and many more resources in the shops and restaurants. 
+12. Additional carbon released as customers travel to the shops and restaurants.
+13. Methane is released as beef and packaging decomposes in landfill.
+Countryside Comic Strip | Images | Shows 3 things that could be done - 
+What can be done:
+eat less beef (skip eating beef for one day a week)
+throw beef and any other food if possible in a special waste bin
+When ordering food pick an alternative meat instead of beef (or a vegetarian option)
+Ocean | Plastic Bottle comic strip |production Green House gas chain-
+1. As drilling rigs are constructed, installed and run carbon is released. 
+2. Carbon is also further released as oil is transported via pipes/ships to treatment plants.
+3.  Electricity is then required to clean the oil releasing more carbon.
+4. As oil is transported via pipes/ships/rail/tankers to manufacturers additonal Carbon is released.
+5. Further carbon is released when electricity is generated to form the oil into plastic bottles and lids.
+6. The empty bottles are then transported to a bottling plant generating more carbon.
+7. machinery then fills the empty bottles with drink releasing more carbon!
+8. Carbon is also released during packaging.
+9. After Packaging more carbon is released as plastic bottles are transported to shops and restaurants.
+10. Electrical powers like fridges, lights, computers, heating, water and many more resources in the shops and restaurants cause more carbons to be released. 
+11.Moreover Carbon is released as customers travel to the shops and restaurants.
+12. Methane is also released as plastic bottle decomposes in landfill. 
+Ocean | Plastic Bottle comic strip |Images | Shows 3 things that could be done - 
+what can be done: 
+Reuse a bottle instead of buying a new one
+Recycle Plastic Bottles
+Ask for tap water when eating out
+
+Tundra |Arctic | Electronics left on standby comic strip | production Greenhouse Gas Chain-
+1. Natural gas drilling rigs are constructed, installed and run in the Tundra, which releases carbon.
+2. natural gas is then transported via pipes/ships/tankers to treatment plants releasing more carbon.
+3. Carbon is also released as electricity is required to clean and dry the natural gas. 
+4. Natural gas is usually odorised so people can smell it and be alerted to a gas leak, though this causes the release of carbon.
+5. As natural gas is transported via pipes/ships/tankers to power stations in the UK further carbon is excelled. 
+6. The natural gas is then burned in power stations to drive turbines, which then produces electricity but also releases carbon in the process.
+7. Additionally carbon is  released as electricity is needed for pylons/power lines to carry electricity. 
+8. 15kg of carbon waster per year by leaving TV on standby.
+Tundra | Arctic | Electronics left on standby comic strip |Images | Shows 3 things that could be done - 
+what can be done: 
+Switch off electronics of standby when not in use
+Switch of lights when not in use
+Unplug Mobile phone charger from wall
+
+Pledges by Habitat:
+Text (on pledges screen)
+1. Write School name
+Countryside
+1.	I will try to skip eating beef (and better yet, meat!) for one day a week (you could follow @meatfreemonday).
+2.	If I have access to a special food waste bin, I will throw beef (and any other food waste) in it.
+3.	When ordering food, I will pick an alternative meat (or better yet, a vegetarian option) instead of beef .
+
+Ocean
+1.	I will use a reusable bottle instead of buying single use plastic bottles.
+2.	I will recycle any plastic bottles I use.
+3.	If I want water when eating out, I will ask for tap water instead of getting it in a plastic bottle.
+
+Arctic Tundra
+1.	I will switch electronics off of standby when I am not using them.
+2.	I will switch light switches off when I am not using them .
+3.	I will unplug my mobile phone charger from the wall.
+
+Rainforest
+1.	I will reconsider upgrading my phone every year/two years if it still works okay.
+2.	I will take care of my phone to make it last as long as possible.
+3.	I will recycle my phone instead of throwing it in landfill.
+
+Interesting Fact (One per Habitat) | Shown in game screen once button is pressed on bottom of the screen
+
+British Countryside
+1.Nitrous oxide is 300 times more harmful to the environment than carbon.
+Ocean
+1. Methane is 23 times more harmful to the environment than carbon.
+Rain Forest
+1. 80% of the carbon footprint of a phone happened before it’s turned on for the first time!
+Tundra
+1.  9-16% of the electricity consumed in homes is used to power appliances when they are in standby mode.
+
+
+## Evalutation [3]
+
+### How user and software requirements have been addressed (Generalised) [3.1]
 
 User and software requirements have been addressed through concurrent anaylisis seperating and following an infrastructured system that details the overall expectation, then breaking down said initiative into a few EPICS, thereafter anaylising all the aspects of the EPICS and turning them into key components or stories and tasks of what the user would expect from the software, further making it easier to define the softwares functions and oversee the project through management and production, with said stories being another way to define the tasks that require undertaking to meet what was set during the formation of said projects EPICS. Thereafter the once all the tasks have been completed it would also mean the completion of said EPICS and therefore mean that the initiative should be met.
 
@@ -190,7 +376,7 @@ The image below pertains or details the hierachy and how user and software requi
 In regards to the ZSL project an example may be seen through the sprints (Iteration where team does the work) in the project backlog, displaying clearly a project break down into tasks that all pertain to the production of the ZSL application.
 
 
-### Tools and Techniques
+### Tools and Techniques [3.2]
 
 Tools -
 
@@ -233,7 +419,7 @@ Presentations -
 
 The project required monumental metholodgy,ideology and clear communication to ensure that the clients vision was met to an acceptable standard. This was achieved through excellent vocal skills and visual presentation, using the visual aspect as a way to empower the vocalisation and words spoken about the application giving the client an overall view of are interpretation of there requirements. Further grasping the clients attention using body language and speaking skills to present the work and get the point across, essentially using the presentations held throughout the project as a means of communiction and review with the client to ensure a certain standard was upheld and the final product was sold and acceptable. 
 
-### Motivational theories, contrast and impact on the workplace
+### Motivational theories, contrast and impact on the workplace [3.2]
 
 #### Hierarcy of Needs
 
@@ -267,7 +453,7 @@ References used:
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 https://www.simplypsychology.org/maslow.html
 
-### Importance of team dynamics in the success and/or failure of group work
+### Importance of team dynamics in the success and/or failure of group work [3.3]
 
 Team dynamics is integral to the success or failure of any project and its management, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
 
@@ -277,7 +463,7 @@ Furthermore team dynamics may not just affect the success or failure of said gro
 
 The success that team dynamics bring is essentially the vice versa to what is covered in the previous and above paragraphs, allowing people to have high morale, work meets standards, excellent reputation as work is delivered, retention of staff, constant secure/safe flow of money and team and individual performance improving. Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
-### Critical Evalutation of self contribution
+### Critical Evalutation of self contribution [3.4]
 
 In relation to my own self contribution to the project, I believe in regards to the first draft I was integral to some of the key concepts thought up , though not as useful in the documentation of said concept, instead opting to handle the storyboard aspect as to how the game may function and look, though as explained in the above section (Importance of team dynamics in the success and/or failure of group work) the whole team dynamic was not functioning to an acceptable standard and thus confusion ensued as to the graphical outlook of the game and thus a re-evaulation of said drawings was required to ensure consistency with other graphics made by another group member.Furthermore I took attempted to take on roles that were supposed to be covered by the team leader,organising meetings during breaks, though not successful this shows the lack of team dynamic and room for improvement. Although in the (second meeting with the client) meeting where the first draft was introduced and presented to the client I contributed slightly to the answering of questions though maybe not necessary it helped relive the pressure of the chosen presenter of are group.
 
@@ -285,7 +471,7 @@ Furthermore in relation to the contribution for the second draft I believe the c
 
 Moreover following the critical evalutation if I were to undertake a similiar project in the future I would suggest that I work on my time management, communication (required for the whole team/group) and overall handling of the project in the first instance ensuring that the brief is thoroughly read as in the first instance or draft it missed the point as to what the client wanted the application to bring across and be centered around.
 
-### Event and Design evaluation
+### Event and Design evaluation [3.5]
 
 In regards to the event it was  satisfactory, producing perhaps not a desiarable outcome but an exceptable one, as a solid idea was layed out to the client meeting the criteria that was talked over with the client days before in a prior meeting before the final event. Whilst although the application prototype failed to function in some areas the base for the application was there showing the client as to what to expect and considerble commitment considering that it was manufactured and put together within a short span of time.
 
@@ -297,7 +483,7 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
-### Problem solving techniques used in the design and delivery of an event
+### Problem solving techniques used in the design and delivery of an event [3.6]
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
 
@@ -321,7 +507,7 @@ http://www.managers.org.uk/knowledge-bank/problem-solving
 
 http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
-### Justification of use of solution Methodologies
+### Justification of use of solution Methodologies [3.7]
 
 Throughout the project numerous encounters left the group unable to further progress until a solution was found to a certain problem, detailing the problems, methods and solutions, justification for the steps taken when encountered with said problem may be found in the below paragraphs. 
 
@@ -333,7 +519,7 @@ In correlation to the above method of internal meetings, external outsourcing fo
 
 With regards to the project as a whole the project itself can be viewed as a problem that the client requires to be solved, thereafter the method of proccess evalution breaking the project down was applied, seperating theses broken tasks and sharing among group members to accomplish, thus ensuring optimal efficency and increasing the rate at which the project as a whole would be completed. The use of this method can be further justified as through proccess evaluation in particular to the latter stage of the project enabled a solid idea to come to fruition. 
 
-### Critique of the proccess used to give critical Reasoning
+### Critique of the proccess used to give critical Reasoning [3.8]
 
 The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions,consisted of considering  whether the choice made was approriate, also further questioning as to if there were any other alternatives to said decision before and after application. Moreover then reading through the documented plan  and researching as to what could have been improved upon, other methods or ideas that can or could have been used, essentially comparing or using other documented information relating to what is being overlooked and seeing as to what method or ideology would have or better suits the situation and work. 
 
