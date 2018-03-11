@@ -30,7 +30,7 @@ This document specifies a project management plan and design for the conceptual 
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
-### OverView 
+### OverView [1.3]
 
 The origins of this project, stemmed from the participation in a competition that sought the backing and presence of a collective of  educational institutes invited by the renowned organisation ZSL, that tasked each institute with formulating a rendidition of there written idea's, concieved from  the idea of modernising their presentations and style in which information is conveyed to kids.
 
@@ -42,7 +42,7 @@ Furthermore ZSL has stated that they would prefer 4 geographical areas or types 
 
 The application ultimately due to limitations and constraints to the technoology avaliable to, and provided by ZSL has been requested to be programmed to fucntion specifically for IPAD, since it is all they have on hand and is a portable system that is easily accessable and user friendly (whether it will be hosted by a database online or through the app store is undisclosed and still open for disscussion/negotiation).
 
-### Aims and Objectives [1.3]
+### Aims and Objectives [1.4]
 
 	Create an app based around a Green House Gas Chain
 
@@ -56,7 +56,7 @@ The application ultimately due to limitations and constraints to the technoology
 
 	Produce a demo and present ideas to the client (based on the clients specifications)
 
-### Costs [1.4]
+### Costs [1.5]
 
 The expenditure of the project amounts to approximately £597.95, this is primarily due to software costs (unity), a tool set to be used in the development of the application. Whilst the secondary reason is due to the inclusion or requirement of a Mini Bus/Van rented and used for the transportation of an event, pertaining to the demonstration of the conceptual phase and demo of the application “Greenhouse Menace” to the client.
 In addition, graphics were procured for the implementation and aesthetic of the application, though no additional costs were required since all the graphics were found in the free domain and eventually altered by are graphic designer Luke, with minor altercations and additions taken from the unity store (UI Graphics listed as free) during implementation by the lead programmer Matthew.
@@ -71,7 +71,7 @@ In addition, graphics were procured for the implementation and aesthetic of the 
 | 5	|Microsoft Applications |	0 |	£0.00|        |
 |	  |			         |        |          | £597.95| 
 
-### Quality Assurance Preface[1.5]
+### Quality Assurance Preface[1.6]
 
 The purpose of Reboot Games and are group development team is to provide an acceptable application that caters to said clients specifications, giving  internal quality assurance guidance. 
 This will be attained through notifying clients during the development ensuring ZSL is kept up to date, further doing tests throughout the production of said application, ensuring functionality, ease of use and that the application meets the standards expected by the client.
@@ -79,19 +79,19 @@ Following the tests that will ensue, prototypes and demos will be formulated, to
 In addition schedules will be drafted, with the project being delegated into tasks that have a set time frame in which to be completed, allowing more deliberation, testing segments rather than the whole application making it easier to locate flaws within the system and delegate tasks, thus improving the whole project infrastructure and making the project more organised and time efficient.
 The above methods will better ensure quality assurance and that the application meets client standards and suits their needs, further involving the client in the development ensuring smooth communication and structured organisation.
 
-### Time (Gantt Chart)[1.6]
+### Time (Gantt Chart)[1.7]
 
 ![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
 
 
 
-### Communication [1.7]
+### Communication [1.8]
 
 The steps the group is taking to ensure fluent communication consists of the usage of numerous platforms, for instance facebook messenger for text based chat, discord for audio based communication and email for whether any documentation needs to be sent and verified by other group members.
 Furthermore other forms of communication consist of verbal and face to face, setting up meetings throughout the development to ensure that the group is not replicating and regurgitating  similar pieces of work.
 In addition making sure that the group is on schedule and meeting certain set standards, leaving time for a review of work concurrently completed during said time frame. The current times the group is set to meet up have not yet been disclosed other than it would be during the half term in which the location will be Watford, West Herts College. Though the meeting is likely to take place during the duration of three days, with members attending; Monday, Tuesday and Wednesday. 
 
-### Risks [1.8]
+### Risks [1.9]
 
 |ID	|Risks	Category|Level|	Probability	|Effect	|Mitigation|
 |----|-------------|--------|----------|--------|----------|
@@ -100,7 +100,7 @@ In addition making sure that the group is on schedule and meeting certain set st
 |3|	Time or not following schedule|	Medium	|30%	|Through not abiding or following a pre revised schedule as well as the times and dates of the events already confirmed outside the groups control.  The problems that occur will link to how efficiently and quickly the project is completed, also affecting the final outcome with regards to the standard the application measures at.|	If a schedule is not being followed the mitigation and alleviation of said problem would be to re-tune the current schedule to meet and suit both the clients and groups needs.|
 |4|	Costs or going over the set balance	|Low	|5%	|This would be of major consequence since it would mean that if any more graphics or other resources were needed to be procured the group would be unable to do so.|	Possible mitigation would be to levy and negotiate with the client or organisation for more funds drawing up possible reasons as to why the funding is necessary and how it would benefit them. Whilst with regards to prevention it would be ideal to draw out a plan, deciding what is more essential to the development of the project and transferring resources based on that factor.|
 
-### Resources[1.9]
+### Resources[1.9.1]
 
 |ID	|Resource Name	|Convention|
 |---|---------|----------|
@@ -110,7 +110,7 @@ In addition making sure that the group is on schedule and meeting certain set st
 |4	|Mini Van|	This resource (Mini Van) is the transport, in which will take the group to the pre-determined event to showcase said application.|
 |5	|Microsoft Applications|	The Resource termed "Microsoft applications", pertains specifically to excel, power point and word set to be used in the development of a documentation and presentations.|
 
-### IDE [1.9.1]
+### IDE [1.9.2]
 
 In regards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, whilst both are considerate in regards to layout, tools, etc. and target beginners (with visual studios also targeting other demographics). 
 
@@ -122,7 +122,7 @@ Moreover linking in with the compatibility point in this project the client want
 
 Thereafter the decision was essentially made after evaluating the ease of use, compatibility with other software in use, a comparison of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
 
-### Project Backlog [1.9.2]
+### Project Backlog [1.9.3]
 
 Group Details
 
