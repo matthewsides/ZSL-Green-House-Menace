@@ -40,6 +40,8 @@ Moreover the chosen subject in regards to which they wished to convey or focus o
 
 Furthermore ZSL has stated that they would prefer 4 geographical areas or types of terrain to be covered and be the reoccuring theme in the application, to highlight the impact the manufacturing  proccess has on these areas as resources are ransacked for production, whilst also suiting the presentation and display already presented and covered during their class program (Meet ZSL Theme).
 
+The application ultimately due to limitations and constraints to the technoology avaliable to, and provided by ZSL has been requested to be programmed to fucntion specifically for IPAD, since it is all they have on hand and is a portable system that is easily accessable and user friendly (whether it will be hosted by a database online or through the app store is undisclosed and still open for disscussion/negotiation).
+
 ### Aims and Objectives [1.3]
 
 	Create an app based around a Green House Gas Chain
