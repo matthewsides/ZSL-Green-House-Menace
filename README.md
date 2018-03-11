@@ -378,9 +378,13 @@ Tundra
 
 ## Evalutation [3]
 
-### 
+### Application Alterication [3.1]
 
-### How user and software requirements have been addressed (Generalised) [3.1]
+Throughout the early stages of development the applications design was based around and concieved as a puzzle game under the guise of global warming, green house gases and focusing on the impact that the gases and global warming as a whole have on the enviroment. Through communciation and during the first presentation of the conceptual design, it was apparent that the specifications the client had set had been miscontruded partly due to misscommunication and misenterpretation. This was later rectified (sanctified) through asking questions and re-viewing the documentation provided to us by ZSL, along with the notes taken during the first meeting with ZSL. 
+
+Thus using said resources avaliable on hand to formulate a new design based around the feedback given and points highlighted in the orginal documentation and notes last glanced over.Thereafter creating the framework for the demo, design documentation and another mini presentation showcasing said new ideas to a ZSL employee named Michelle that visited during production. Though this caused some time to be lost and could have been easily avoided if the correct questions were asked and anwsers noted in the first place, whilst in continuation with the previous point if the brief provided was properly read. Furthermore the label of a game was footed into the groups head, thus making the majority of the people and other groups involved thinking that game elements were required to be involved when in actuality all that was needed was slight interactivity and information displayed on screen (an application not a game).
+
+### How user and software requirements have been addressed (Generalised) [3.2]
 
 User and software requirements have been addressed through concurrent anaylisis seperating and following an infrastructured system that details the overall expectation, then breaking down said initiative into a few EPICS, thereafter anaylising all the aspects of the EPICS and turning them into key components or stories and tasks of what the user would expect from the software, further making it easier to define the softwares functions and oversee the project through management and production, with said stories being another way to define the tasks that require undertaking to meet what was set during the formation of said projects EPICS. Thereafter the once all the tasks have been completed it would also mean the completion of said EPICS and therefore mean that the initiative should be met.
 
@@ -395,7 +399,7 @@ The image below pertains or details the hierachy and how user and software requi
 In regards to the ZSL project an example may be seen through the sprints (Iteration where team does the work) in the project backlog, displaying clearly a project break down into tasks that all pertain to the production of the ZSL application.
 
 
-### Tools and Techniques [3.2]
+### Tools and Techniques [3.3]
 
 Tools -
 
@@ -472,7 +476,7 @@ References used:
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 https://www.simplypsychology.org/maslow.html
 
-### Importance of team dynamics in the success and/or failure of group work [3.3]
+### Importance of team dynamics in the success and/or failure of group work [3.4]
 
 Team dynamics is integral to the success or failure of any project and its management, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
 
@@ -482,7 +486,7 @@ Furthermore team dynamics may not just affect the success or failure of said gro
 
 The success that team dynamics bring is essentially the vice versa to what is covered in the previous and above paragraphs, allowing people to have high morale, work meets standards, excellent reputation as work is delivered, retention of staff, constant secure/safe flow of money and team and individual performance improving. Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
-### Critical Evalutation of self contribution [3.4]
+### Critical Evalutation of self contribution [3.5]
 
 In relation to my own self contribution to the project, I believe in regards to the first draft I was integral to some of the key concepts thought up , though not as useful in the documentation of said concept, instead opting to handle the storyboard aspect as to how the game may function and look, though as explained in the above section (Importance of team dynamics in the success and/or failure of group work) the whole team dynamic was not functioning to an acceptable standard and thus confusion ensued as to the graphical outlook of the game and thus a re-evaulation of said drawings was required to ensure consistency with other graphics made by another group member.Furthermore I took attempted to take on roles that were supposed to be covered by the team leader,organising meetings during breaks, though not successful this shows the lack of team dynamic and room for improvement. Although in the (second meeting with the client) meeting where the first draft was introduced and presented to the client I contributed slightly to the answering of questions though maybe not necessary it helped relive the pressure of the chosen presenter of are group.
 
@@ -490,7 +494,7 @@ Furthermore in relation to the contribution for the second draft I believe the c
 
 Moreover following the critical evalutation if I were to undertake a similiar project in the future I would suggest that I work on my time management, communication (required for the whole team/group) and overall handling of the project in the first instance ensuring that the brief is thoroughly read as in the first instance or draft it missed the point as to what the client wanted the application to bring across and be centered around.
 
-### Event and Design evaluation [3.5]
+### Event and Design evaluation [3.6]
 
 In regards to the event it was  satisfactory, producing perhaps not a desiarable outcome but an exceptable one, as a solid idea was layed out to the client meeting the criteria that was talked over with the client days before in a prior meeting before the final event. Whilst although the application prototype failed to function in some areas the base for the application was there showing the client as to what to expect and considerble commitment considering that it was manufactured and put together within a short span of time.
 
@@ -502,7 +506,7 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
-### Problem solving techniques used in the design and delivery of an event [3.6]
+### Problem solving techniques used in the design and delivery of an event [3.7]
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
 
@@ -526,7 +530,7 @@ http://www.managers.org.uk/knowledge-bank/problem-solving
 
 http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
-### Justification of use of solution Methodologies [3.7]
+### Justification of use of solution Methodologies [3.8]
 
 Throughout the project numerous encounters left the group unable to further progress until a solution was found to a certain problem, detailing the problems, methods and solutions, justification for the steps taken when encountered with said problem may be found in the below paragraphs. 
 
@@ -538,7 +542,7 @@ In correlation to the above method of internal meetings, external outsourcing fo
 
 With regards to the project as a whole the project itself can be viewed as a problem that the client requires to be solved, thereafter the method of proccess evalution breaking the project down was applied, seperating theses broken tasks and sharing among group members to accomplish, thus ensuring optimal efficency and increasing the rate at which the project as a whole would be completed. The use of this method can be further justified as through proccess evaluation in particular to the latter stage of the project enabled a solid idea to come to fruition. 
 
-### Critique of the proccess used to give critical Reasoning [3.8]
+### Critique of the proccess used to give critical Reasoning [3.9]
 
 The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions,consisted of considering  whether the choice made was approriate, also further questioning as to if there were any other alternatives to said decision before and after application. Moreover then reading through the documented plan  and researching as to what could have been improved upon, other methods or ideas that can or could have been used, essentially comparing or using other documented information relating to what is being overlooked and seeing as to what method or ideology would have or better suits the situation and work. 
 
