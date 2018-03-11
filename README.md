@@ -31,11 +31,14 @@ This document specifies a project management plan and design for the conceptual 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
 ### OverView 
-The origins of this project, stemmed from the participation in a competition that sought the paticipation of a collective of  educational institutes invited by the renowned organisation ZSL, that tasked each institute with formulating a rendidition of there written idea's, concived from  
-  
 
+The origins of this project, stemmed from the participation in a competition that sought the backing and presence of a collective of  educational institutes invited by the renowned organisation ZSL, that tasked each institute with formulating a rendidition of there written idea's, concieved from  the idea of modernising their presentations and style in which information is conveyed to kids.
 
+This sought the seperation or partition of colleagues into groups to better optimise work and ensure an enviroment of a competitive nature and thus also allow for a multitude of choices to be avaliable to ZSL when they choose the application and respective choice, that better suits their needs.
 
+Moreover the chosen subject in regards to which they wished to convey or focus on, is global warming or inparticular green house  gases honing in on the green house gas chain and production in particular, whilst still briefly covering the impact. Their reasoning behind this is because the production is often the part that is the root cause for all problems displayed in the impact, which is generally covered more in education, rather than how to fix the problems already occured, ZSL hope to cover how to prevent the reoccuring problems before they come to fruition.
+
+Furthermore ZSL has stated that they would prefer 4 geographical areas or types of terrain to be covered and be the reoccuring theme in the application, to highlight the impact the manufacturing  proccess has on these areas as resources are ransacked for production, whilst also suiting the presentation and display already presented and covered during their class program (Meet ZSL Theme).
 
 ### Aims and Objectives [1.3]
 
