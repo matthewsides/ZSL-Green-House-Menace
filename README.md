@@ -30,6 +30,13 @@ This document specifies a project management plan and design for the conceptual 
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
+### OverView 
+The origins of this project, stemmed from the participation in a competition that sought the paticipation of a collective of  educational institutes invited by the renowned organisation ZSL, that tasked each institute with formulating a rendidition of there written idea's, concived from  
+  
+
+
+
+
 ### Aims and Objectives [1.3]
 
 	Create an app based around a Green House Gas Chain
