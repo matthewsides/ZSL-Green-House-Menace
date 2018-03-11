@@ -33,10 +33,15 @@ This documentation is meant to be read by programmers, artists and producers inv
 ### Aims and Objectives [1.3]
 
 	Create an app based around a Green House Gas Chain
+
 	Produce and Implement a Drag and Drop System
+
 	Satisfy client requirements to an acceptable standard
+
 	Incorporate 4 areas based around geographical terrain 
+
 	Make the app functional and compatible in said target system (I pad)
+
 	Produce a demo and present ideas to the client (based on the clients specifications)
 
 ### Costs [1.4]
