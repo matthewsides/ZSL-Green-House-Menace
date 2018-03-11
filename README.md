@@ -205,7 +205,7 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ### Concept [2.1]
 
-The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change).
+The concept behind the project is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change).
 
 ### Story [2.2]
 
