@@ -164,7 +164,17 @@ c,
 
 There is no specific set standard for whether double or single qoutation marks are used, only that under circumstances consistency should be ensured and attempted to be kept, throughout the code, therefore it is recommended to pick one beforehand and use throughout the code.
 
+#### Naming Conventions
 
+The naming conventions in particular pertaining to functions and variables should be named using lowercase, and words should be separated with an underscore (no-spacing). Variables may also be spaced with Upper case characters.
+
+Examples:
+
+code_example (Functions and Variables) or CodeCoolExample (Variables)
+
+#### Comments
+
+As alliterated above in the length section, comments should be clear and concise using as little characters as possible. The comments are not restricted by the pre-set char limit of 80 and may span for as long as required, though it is recommeded to keep it short to ensure readability.
 
 ### Project Backlog [1.9.4]
 
