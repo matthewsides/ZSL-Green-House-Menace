@@ -143,6 +143,28 @@ All Binary Operators (Operators that come between two values) such as; +, -, *, 
 In general all lines of code should not be longer than 80 chars.
 Though exceptions include when functions names are longer or in the instance that the reason for said length is due to the need for a comment (commenting excluded from this rule, though it is suggested to keep the amount of chars used when commenting to a minimal to ensure the code readability is not affected).
 
+#### Function Calls
+
+Functions should be called with no spaces between the function name, the opening parenthesis, and the first parameter; spaces between commas and each parameter, and no space between the last parameter, the closing parenthesis, and the semicolon.
+
+For instance: var = num(one, two, three);
+
+#### Arrays
+
+Arrays should include spacing seperating each element (after the comma), including operators.
+Note: if the array exceeds the char limit (80), seperate (span) each element, breaking it down into its own line and indented level.
+Example:
+char_array [
+a,  \
+b,  \
+c,
+]
+
+#### Qoutes
+
+There is no specific set standard for whether double or single qoutation marks are used, only that under circumstances consistency should be ensured and attempted to be kept, throughout the code, therefore it is recommended to pick one beforehand and use throughout the code.
+
+
 
 ### Project Backlog [1.9.4]
 
