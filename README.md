@@ -122,7 +122,29 @@ Moreover linking in with the compatibility point in this project the client want
 
 Thereafter the decision was essentially made after evaluating the ease of use, compatibility with other software in use, a comparison of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
 
-### Project Backlog [1.9.3]
+### Coding Standards [1.9.3]
+
+Coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be
+
+Note: The coding standards listed below are essentially the set of guidelines,that the group have agree'd upon to follow, during development to ensure that the programming style is consistent.
+
+#### White Spacing and Indentation 
+
+Use an indent of 1-2 spaces, with no tabs.
+
+Lines should have no trailing whitespace at the end. 
+
+#### Operators
+
+All Binary Operators (Operators that come between two values) such as; +, -, *, /, ==, =, etc. should have a space before and after the operator for readability. Example Formatting: i = i rather than i=i.
+
+#### Line length 
+
+In general all lines of code should not be longer than 80 chars.
+Though exceptions include when functions names are longer or in the instance that the reason for said length is due to the need for a comment (commenting excluded from this rule, though it is suggested to keep the amount of chars used when commenting to a minimal to ensure the code readability is not affected).
+
+
+### Project Backlog [1.9.4]
 
 Group Details
 
