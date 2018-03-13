@@ -153,7 +153,9 @@ For instance: var = num(one, two, three);
 
 Arrays should include spacing seperating each element (after the comma), including operators.
 Note: if the array exceeds the char limit (80), seperate (span) each element, breaking it down into its own line and indented level.
+
 Example:
+
 char_array [
 a,  \
 b,  \
