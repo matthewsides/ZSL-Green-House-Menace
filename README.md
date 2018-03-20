@@ -562,7 +562,7 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
-### Problem solving techniques used in the design and delivery of an event [3.7]
+### [3.7] Problem solving techniques used in the design and delivery of an event 
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
 
@@ -586,7 +586,7 @@ http://www.managers.org.uk/knowledge-bank/problem-solving
 
 http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
-### Justification of use of solution Methodologies [3.8]
+### [3.8] Justification of use of solution Methodologies 
 
 Throughout the project numerous encounters left the group unable to further progress until a solution was found to a certain problem, detailing the problems, methods and solutions, justification for the steps taken when encountered with said problem may be found in the below paragraphs. 
 
@@ -598,7 +598,8 @@ In correlation to the above method of internal meetings, external outsourcing fo
 
 With regards to the project as a whole the project itself can be viewed as a problem that the client requires to be solved, thereafter the method of proccess evalution breaking the project down was applied, seperating theses broken tasks and sharing among group members to accomplish, thus ensuring optimal efficency and increasing the rate at which the project as a whole would be completed. The use of this method can be further justified as through proccess evaluation in particular to the latter stage of the project enabled a solid idea to come to fruition. 
 
-### Critique of the proccess used to give critical Reasoning [3.9]
+
+### [3.9] Critique of the proccess used to give critical Reasoning 
 
 The method or proccess applied to anaylse and question the steps taken through out the project or more specifically critically assess the thought proccess behind said actions,consisted of considering  whether the choice made was approriate, also further questioning as to if there were any other alternatives to said decision before and after application. Moreover then reading through the documented plan  and researching as to what could have been improved upon, other methods or ideas that can or could have been used, essentially comparing or using other documented information relating to what is being overlooked and seeing as to what method or ideology would have or better suits the situation and work. 
 
