@@ -587,6 +587,10 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
+### Communciation Styles and Formats applied in the  delivery of an event 
+
+
+
 ### [3.7] Problem solving techniques used in the design and delivery of an event 
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
