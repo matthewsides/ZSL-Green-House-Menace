@@ -589,7 +589,9 @@ Therefore in regards to the standard of the application of interpersonal communi
 
 ### Communciation Styles and Formats applied in the delivery of an event 
 
-A range of different communication styles and formats were used during the event to essentially better convey the groups ideas and points across to the client. For instance verbal communication, effective during the presentation as are groups was consise, stating the ideas behind the design,a walkthrough of the given protoytype and ommitted parts of the project due to time constraints.
+A range of different communication styles and formats were used during the event to essentially better convey the groups ideas and points across to the client. For instance verbal communication, effective during the presentation as are groups presenter (in this instance Luke Shead) was consise, stating the ideas behind the design,a walkthrough of the given protoytype also covering the parts ommitted form the project due to time constraints.
+
+In Addition to verbal communication, visual methods were also used in the form of a power point presentation to better back up the words spoken by the presenter, whilst a demo was prepared specifically for this scenario
 
 The underlying reason for the abtuse amount of communication styles,methods and formats applied in the deliverly of an event, since people better interpret certain methods of communication than others.
 
