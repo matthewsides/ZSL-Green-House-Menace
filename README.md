@@ -601,9 +601,7 @@ Essentially the communication styles and formats applied were used effectively, 
 
 Emails-
 
-![Emailone](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_1.png)
-
-![Emailtwo](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_2.png)
+![Emailone](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_1.png)![Emailtwo](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_2.png)
 
 ### [3.7] Problem solving techniques used in the design and delivery of an event 
 
