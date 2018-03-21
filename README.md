@@ -591,9 +591,18 @@ Therefore in regards to the standard of the application of interpersonal communi
 
 A range of different communication styles and formats were used during the event to essentially better convey the groups ideas and points across to the client. For instance verbal communication, effective during the presentation as are groups presenter (in this instance Luke Shead) was consise, stating the ideas behind the design,a walkthrough of the given protoytype also covering the parts ommitted form the project due to time constraints.
 
-In Addition to verbal communication, visual methods were also used in the form of a power point presentation to better back up the words spoken by the presenter, whilst a demo was prepared specifically for this scenario
+In Addition to verbal communication, Visual formats were also used. For example power point, to provide an illustrative backdrop for the content of said presentation and support (back-up) the words spoken by the presenter. Another visual format also enforced was the use of a demo, prepared specifically for this scenario or event. Theses visual formats were essentially used effectively during the event as the inclusion of said demo provided quality assurance and a better illustration as to what the client might expect the finished application to function and look like aesthetically. Whilst the presentation and the way in which it was utilised was effective due to the following of the 6 slide rule, short and concise,stating what the presenting is verbally conveying. Further being used to engage the client, diverting attention off the presenter, thus alleviating the pressure. 
 
-The underlying reason for the abtuse amount of communication styles,methods and formats applied in the deliverly of an event, since people better interpret certain methods of communication than others.
+Another communication style applied in the delivery of an event or presentation was body language, used to give an aura of confidence,enthusiasm and assurance ( a specific message to the client). Thereafter sending the message to the clientele that we have the same intrest and are devoted to the continuing and finalising the project.
+
+The underlying reason for the (abtuse) numerous amount of communication styles,methods and formats applied in the deliverly of an event, since people better interpret certain methods of communication than others.
+
+Essentially the communication styles and formats applied were used effectively, conveying and illustrating the points in which the group wanted to transmit. This may be seen through the feedback recieved in emails and during the event (photos), in which ZSL (Michelle, Gareth, etc.) and the invited guest judges lauded the group.
+
+Example Email-
+
+
+
 
 ### [3.7] Problem solving techniques used in the design and delivery of an event 
 
