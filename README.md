@@ -599,10 +599,11 @@ The underlying reason for the (abtuse) numerous amount of communication styles,m
 
 Essentially the communication styles and formats applied were used effectively, conveying and illustrating the points in which the group wanted to transmit. This may be seen through the feedback recieved in emails and during the event (photos), in which ZSL (Michelle, Gareth, etc.) and the invited guest judges lauded the group.
 
-Example Email-
+Emails-
 
-![Email](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
+![Emailone](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_1.png)
 
+![Emailtwo](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_2.png)
 
 ### [3.7] Problem solving techniques used in the design and delivery of an event 
 
