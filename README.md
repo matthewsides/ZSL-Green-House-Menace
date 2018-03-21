@@ -42,6 +42,22 @@ Furthermore ZSL has stated that they would prefer 4 geographical areas or types 
 
 The application ultimately due to limitations and constraints to the technoology avaliable to, and provided by ZSL has been requested to be programmed to fucntion specifically for IPAD, since it is all they have on hand and is a portable system that is easily accessable and user friendly (whether it will be hosted by a database online or through the app store is undisclosed and still open for disscussion/negotiation).
 
+### Goals and Team Roles
+
+The Project Goals consist of:
+
+ Creating a conceptual design based around the Client brief and prior discussed points.Thereafter presenting the design to the client (ZSL) , gathering feedback and reviewing the outcome to the given brief to assess as to whether the design met the expected outcome level. Through creating and presenting a conceptual design for the application it may be used to measure how close to the mark the current design is in comparision to the clients application idea, thus relevant to building upon the current design. The initial design should be finished by ___ since that is when the second meeting (subsequently the first meeting was for requirment gathering and an introduction to the subject) is scheduled to take place, whilst once improved another meeting is set to be held on ____, at _____.
+
+
+consist of developing an application based on  client requirements written in the given brief and
+Team Roles-
+
+ Luke.S - Team Leader
+  Sam - Scrum Master
+ Luke.B - Graphics Designer
+ Matthew.S - Lead Programmer
+ Joe.W - 
+
 ### Aims and Objectives [1.4]
 
 	Create an app based around a Green House Gas Chain
@@ -82,6 +98,7 @@ The above methods will better ensure quality assurance and that the application 
 ### Time (Gantt Chart)[1.7]
 
 ![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
+
 
 
 
