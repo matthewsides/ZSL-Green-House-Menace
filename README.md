@@ -50,13 +50,20 @@ The Project Goals consist of:
 
 
 consist of developing an application based on  client requirements written in the given brief and
+
 Team Roles-
 
- Luke.S - Team Leader
-  Sam - Scrum Master
- Luke.B - Graphics Designer
+The roles listed next to each group member below are their primary roles, however due to the fluidity and flexability of the group the roles were interchangable with certain group members taking on secondary roles either to allieveate pressure on another group member or due to completion of their tasks. This structure and method is further supported, due to the application of SCRUM, (an agile framework that places empahasis on software development)  as the group took on a different composition than a tradiitonal waterfall project, allowing the team to be corss functional, enabling effective team collaboration.
+
+ Luke.S - Team Leader / Scrum Master
+
+  Sam - Product Owner
+
+ Luke.B - Lead Graphics Designer
+
  Matthew.S - Lead Programmer
- Joe.W - 
+
+ Joe.W - Developer
 
 ### Aims and Objectives [1.4]
 
