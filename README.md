@@ -601,7 +601,7 @@ Essentially the communication styles and formats applied were used effectively, 
 
 Example Email-
 
-
+![Email](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
 
 
 ### [3.7] Problem solving techniques used in the design and delivery of an event 
