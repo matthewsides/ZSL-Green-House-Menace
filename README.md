@@ -53,7 +53,7 @@ consist of developing an application based on  client requirements written in th
 
 Team Roles-
 
-The roles listed next to each group member below are their primary roles, however due to the fluidity and flexability of the group the roles were interchangable with certain group members taking on secondary roles either to allieveate pressure on another group member or due to completion of their tasks. This structure and method is further supported, due to the application of SCRUM, (an agile framework that places empahasis on software development)  as the group took on a different composition than a tradiitonal waterfall project, allowing the team to be corss functional, enabling effective team collaboration.
+The roles listed next to each group member below are their primary roles, however due to the fluidity and flexability of the group the roles were interchangable with certain group members taking on secondary roles either to allieveate pressure on another group member or due to completion of their tasks. This structure and method is further supported, due to the application of SCRUM, (an agile framework that places empahasis on software development)  as the group took on a different composition than a traditonal waterfall project, allowing the team to be cross functional, enabling effective team collaboration.
 
  Luke.S - Team Leader / Scrum Master
 
