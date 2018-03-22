@@ -560,13 +560,40 @@ https://www.simplypsychology.org/maslow.html
 
 ### Importance of team dynamics in the success and/or failure of group work [3.4]
 
-Team dynamics is integral to the success or failure of any project and its management, in particular in relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
+
+A Team dynamic is integral to the success or failure of any project and its management,Team dynamics are the unconscious, psychological forces that influence the direction of a team's behaviour and performance.You can recognise team dynamics by looking for the forces that influence team behaviour. These forces might include:
+
+ Personality styles (eg: including or excluding people)
+
+ Team Roles 
+
+ Office layout (eg: cupboards dividing teams into two)
+
+ Tools and technology (eg: email, bulletin board, information pool enabling hidden communication).
+
+ Organisational culture 
+
+ Processes/methodologies/procedures (eg: problem-solving methodology)
+
+ etc. 
+
+Team dynamics can make a significant difference to team performance though unproductive conflict, mistrust, demotivation, the loss of skilled staff, and the loss of revenue. In contrast Team Dynamics may also herald a positive impact; Higher quality output by capitalising on the strengths of the team members, making the team players feel important and heard,Enables sharing of expertise
+the collaboration of the various skills that the team brings together resulting in creativity not possible individually, etc. 
+
+In relation to the ZSL project entrusting that everyone knew their part was crucial especially since there were multiple intervals where the group was unable to meet with eachother due to extended breaks (half-term) , furthermore if communication was not kept and team dynamics not applied it would be likely that work is duplicated or that one member may go off track. For instance in the first draft the drawn artwork and graphical artwork differed greatly due to a lack of communication and thus caused inconsistency in the graphics overall look.
 
 Moreover during the extended break the group was expected to organise times as to when to come in doing the equivalent to overtime to ensure that the groups were on target for a time deference already below the usual industry standards as to what would be coined as acceptable or reasonable. This was not done due to a lack of euthusiam of one member, no communication by two, whilst the team leader was not taking charge, stating that they were busy, thus leaving the team with one member (me) having to arrange a date for the group to meet up (a job meant for the team leader), which did not happen meaning one member was left attending or coming in on monday and tuesday, to  hoist the group to an acceptable standard of work within that time (which did not happen), leaving that one member to not enjoy their work (morale decreased and not come in the wenesday of that week as was origninally attended), hence another reason why team dynamics is important as it may affect performance. 
 
-Furthermore team dynamics may not just affect the success or failure of said group work or one project but a company's overall reputation, the company in this instance being Reboot games which I am under, where the first draft was not up to the clients (ZSL) standards (meeting around 40%) missing the core point of the application and areas they wished covered, thus in a competetive enviroment it is likely that the client would not invest into the company's app but rather another organisation that may sate their needs. This being mainly caused by the lack of communicaton not just internally but externally with the client, whilst if the documentation was read thoroughly, the group communicated and committed it would have been less likely for the mistake to occur as the project would have been less rushed with multiple people working on it and the group/team working inconjunction. Inaddition the team dynamics affect on reputation may also cause a drought of influx of money as work is less likely to come through and with staff morale falling due to not applying team dynamics, the staff retention rates and quality of work will go down. This therefore highlighting the importance of team dynamics and the insufficent use of the methodlogy in this project thus showing flaws and room for improvement.
+The team dynamics on this occassion were initially impacted due to the group origniating from different locations, making it harder to organise meetings, thus leading to limited face to face communication,subsequent lack of direction, evident lack of enthusiam and focus. This in turn meant that team memembers were unsure of there roles and therefore work presented was either not applicable or not to the specification agree'd by the team previously (quality assurance).
 
-The success that team dynamics bring is essentially the vice versa to what is covered in the previous and above paragraphs, allowing people to have high morale, work meets standards, excellent reputation as work is delivered, retention of staff, constant secure/safe flow of money and team and individual performance improving. Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
+Further supporting the prior point made the first design drafted out by the team was did not meet the clients (ZSL) standards (meeting around 40%) missing the core point of the application and areas they wished covered, thus in a competetive enviroment it is likely that the client would not invest into the company's app but rather another organisation that may sate their needs. If the team dynamics had been on point or addressed it would have been less likely for the mistake to occur as the project would have been less rushed with multiple people working on it and the group/team working inconjunction. 
+
+Moreover during the extended break the team dynamics was further impacted due to a lack of organisation and communication as to when supervision and meetings would take place, with the group expected to state when and attend a scheduled meeting to make up for time deference (already below industry standards). Incontinuation the meeting was held, however only one group member attended (Matthew Sides), this stemming from a lack of euthusiam of one member, no communication by two, whilst the team leader was not taking charge, stating that they were busy. Thus having a significant impact on the team dynamics as the only group member in attendance was forced to  take the initiative and role of team leader in a attempt to hoist the current work output to an acceptable standard. Further leading to a decline in morale due to the sheer amount of work plunged onto one member. 
+
+
+
+how i improved the team dynamic to get it functioning to get a good outcome. The Teams dynamic were essentially improved and made functional, through the realisation and 
+Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
 ### Critical Evalutation of self contribution [3.5]
 
