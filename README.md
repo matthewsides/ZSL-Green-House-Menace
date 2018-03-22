@@ -611,13 +611,11 @@ The ZSL project hailed the use of numerous problem solving techniques during the
 
 -Process evaluation: Problems can be approached by breaking systems into sections which can be analyzed for the source of the problem.Through the implication of SCRUM, Proccess evaluation was sought and seen ideal, being able to work in conjunction with SCRUM, heralding similaities to what a product backlog sprint entails.The ideology and methodology of proccess evalutation was applied numerous times in development as seen through stories, Epics and the product backlog, breaking the requirements down and delegating the seperate tasks to group memembers. While this is also relayed through the aims and objectives and applied during the code implementation as issues occured during development.
 
-could work inconjunction with tSCRUM and the idea 
+-Word analysis: Through focusing on the essential questions; who, what, where, why, when, and how; team members can gather the essential facts about a problem without dealing with confusing details. Word analysis was applied particularly in the first stage of development Whilst formulating a plan,schedule and laying out the first conceptual design. Essentailly focusing on the clients background and what the client wanted to use said application for to gain a better understanding.
 
-which heralds the idea of breaking tasks down, 
+-Data collection: By making sure relevant information is collected, team members can develop a more suitable response. This problem solving technique was used shortly after a brief was recieved from ZSL, during requirement gathering making inquirys into what ZSL would expect, querying to essentially feed ideas, making suggestions and gaining a better understanding of the overall expectations to ensure that the response or presentation was prim and proper (met there standards).
 
--Word analysis: Through focusing on the essential questions; who, what, where, why, when, and how; team members can gather the essential facts about a problem without dealing with confusing details.
-
--Data collection: By making sure relevant information is collected, team members can develop a more suitable response.
+In continuation to the problem solving techniques and points covered above the techniques were fudemental and used effectively in the design and deliverly of an event. However this is only inrelation to the later stages of development as the techniques were put into place to ensure that information was gathered and not miscontruded or misinterpretated. Though the opposite happened, thus leading to an application being shown in the second meeting that did not portray what the client wanted. Once reapplied during the review of the current design or version, however infomration was extracted that was previously glossed over or missed , fixing the erroneous design and problems.
 
 
 References- 
