@@ -560,7 +560,6 @@ https://www.simplypsychology.org/maslow.html
 
 ### Importance of team dynamics in the success and/or failure of group work [3.4]
 
-
 A Team dynamic is integral to the success or failure of any project and its management,Team dynamics are the unconscious, psychological forces that influence the direction of a team's behaviour and performance.You can recognise team dynamics by looking for the forces that influence team behaviour. These forces might include:
 
  Personality styles (eg: including or excluding people)
@@ -590,10 +589,9 @@ Further supporting the prior point made the first design drafted out by the team
 
 Moreover during the extended break the team dynamics was further impacted due to a lack of organisation and communication as to when supervision and meetings would take place, with the group expected to state when and attend a scheduled meeting to make up for time deference (already below industry standards). Incontinuation the meeting was held, however only one group member attended (Matthew Sides), this stemming from a lack of euthusiam of one member, no communication by two, whilst the team leader was not taking charge, stating that they were busy. Thus having a significant impact on the team dynamics as the only group member in attendance was forced to  take the initiative and role of team leader in a attempt to hoist the current work output to an acceptable standard. Further leading to a decline in morale due to the sheer amount of work plunged onto one member. 
 
+The Teams dynamics were essentially improved and made functional, due to the sudden realisation and serverity of the situation presented during the second meeting and lack of time until the event. Thereafter leading to the group having an underlying understanding and connection as they worked towards a similiar goal of completing said project to the standards expected. Whilst this sudden change also sought the team completing there roles with a slight shift in regards to whose doing the brunt of the programming and presenting. Whilst Matthew also played an integral role partaking some of the responsibilities of the team leader (though Luke was still the overall team leader) in order to alleviate the work load of the specified team leader luke, better motivate and ensure work was completed.  
 
-
-how i improved the team dynamic to get it functioning to get a good outcome. The Teams dynamic were essentially improved and made functional, through the realisation and 
-Which can been seen more in the second draft as their was more communication after getting feedback from the client and people completed the work allocated and based around the time given or remaining for completion a acceptable outcome was achieved, though not chosen, the use of team dynamics and effect may be observed and the project can be deemed succesful in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
+Following said above points, the impact of team dynamics and the subsequent improvement can been seen more in the second draft as there was more communication after getting feedback from the client, with people completing the work allocated and based around the time given or remaining for completion. An acceptable outcome was achieved, though not chosen, the use of team dynamics and effects may be observed and the project can be deemed succesfull in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
 ### Critical Evalutation of self contribution [3.5]
 
