@@ -607,9 +607,13 @@ Emails-
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
 
--Brainstorming: By encouraging the open expression of any and all ideas, the perspective of all those involved in solving the problem can contribute to identifying possible options to solve the problem and then selecting the best solution from those possibilities. This was used multiple times throughtout all stages of development as the group had to design a suitable application that would meet the clients requirements, fleshing out ideas through verbal communication. Whilst another instance where brain storming was used, during group supervision and meetings to convey and discuss constraints or problems that have occured,useing said brain storming as a median and oppoturnity to figure out the origin of the problem.
+-Brainstorming: By encouraging the open expression of any and all ideas, the perspective of all those involved in solving the problem can contribute to identifying possible options to solve the problem and then selecting the best solution from those possibilities. This was used multiple times throughtout all stages of development as the group had to design a suitable application that would meet the clients requirements, fleshing out ideas through verbal communication. Whilst another instance where brain storming was used, during group supervision and meetings to convey and discuss constraints or problems that have occured,useing said brain storming as a median and oppoturnity to figure out the origin of the problem. 
 
--Process evaluation: Problems can be approached by breaking systems into sections which can be analyzed for the source of the problem.Through the implication of SCRUM, which heralds the idea of breaking tasks down 
+-Process evaluation: Problems can be approached by breaking systems into sections which can be analyzed for the source of the problem.Through the implication of SCRUM, Proccess evaluation was sought and seen ideal, being able to work in conjunction with SCRUM, heralding similaities to what a product backlog sprint entails.The ideology and methodology of proccess evalutation was applied numerous times in development as seen through stories, Epics and the product backlog, breaking the requirements down and delegating the seperate tasks to group memembers. While this is also relayed through the aims and objectives and applied during the code implementation as issues occured during development.
+
+could work inconjunction with tSCRUM and the idea 
+
+which heralds the idea of breaking tasks down, 
 
 -Word analysis: Through focusing on the essential questions; who, what, where, why, when, and how; team members can gather the essential facts about a problem without dealing with confusing details.
 
