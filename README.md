@@ -109,6 +109,8 @@ The above methods will better ensure quality assurance and that the application 
 
 The schedule has been formed and based around pre-set dates, pertaining to the supervision and meetings with ZSL as well as the subsequent event which is held on the 7th of November 2017. Further delving into the structure and framework of said Gantt chart above, along with the delegation of time it is necassary to note that the first meeting with ZSL was held on the 2nd. Following said meeting another meeting at ZSL will occur hence why more time is allocated to the design rather than project management since the first conceptual version will be presented. After said client meeting more time is allocated to the design to ommit or make any changes based on feedback retrieved along with the formulation of a demo or prototype. This demo or prototype is set to be shown on the 7th of novemenber to the clientele, though it is plasuable ZSL may visit during development. In continuation to the prior point this is the supporting reason as to why 3 days are delegated to testing to ensure any faults may be mitigated.
 
+The constraint that is the set time frame given to the group to produce a product of an acceptable standard
+
 ### Communication [1.8]
 
 The steps the group is taking to ensure fluent communication consists of the usage of numerous platforms, for instance facebook messenger for text based chat, discord for audio based communication and email for whether any documentation needs to be sent and verified by other group members.
