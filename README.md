@@ -105,7 +105,7 @@ The above methods will better ensure quality assurance and that the application 
 
 ### Time (Gantt Chart)[1.7]
 
-![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt%20Chart.PNG)
+![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt_Chart_ZSL.png)
 
 
 
