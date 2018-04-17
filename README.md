@@ -42,6 +42,10 @@ Furthermore ZSL has stated that they would prefer 4 geographical areas or types 
 
 The application ultimately due to limitations and constraints to the technoology avaliable to, and provided by ZSL has been requested to be programmed to fucntion specifically for IPAD, since it is all they have on hand and is a portable system that is easily accessable and user friendly (whether it will be hosted by a database online or through the app store is undisclosed and still open for disscussion/negotiation).
 
+### Project Management 
+
+The strategy set to be applied with regards to project management, to ensure that the project is properly overseen will be Scrum. Scrum is an agile framework for managing work with an emphasis on software development. The reason behind the use of Scrum in particular is due to its flexible nature.
+
 ### Goals and Team Roles
 
 The Overall goal of the project is to design,present and create a demo of an application based around (ZSL's Specifications) the Green house gas chain, production and impact on the envirioment, essentialy satisfying the clients needs. This is required to be completed by 7th november based on when the event is scehduled. whilst the milestones that are required to be completed along the way in order to meet said goal consist of :
