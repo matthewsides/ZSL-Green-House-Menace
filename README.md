@@ -20,17 +20,17 @@ Last Update: 04/03/2018
 
 [3] Evaluation
 
-## Project Management [1]
+## [1] Project Management [1]
 
-### Introduction [1.1]
+### [1.1] Introduction 
 
 This document specifies a project management plan and design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Greenhouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
-### Scope [1.2]
+### [1.2] Scope 
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
-### OverView [1.3]
+### [1.3] OverView 
 
 The origins of this project, stemmed from the participation in a competition that sought the backing and presence of a collective of  educational institutes invited by the renowned organisation ZSL, that tasked each institute with formulating a rendidition of there written idea's, concieved from  the idea of modernising their presentations and style in which information is conveyed to kids.
 
@@ -42,11 +42,11 @@ Furthermore ZSL has stated that they would prefer 4 geographical areas or types 
 
 The application ultimately due to limitations and constraints to the technoology avaliable to, and provided by ZSL has been requested to be programmed to fucntion specifically for IPAD, since it is all they have on hand and is a portable system that is easily accessable and user friendly (whether it will be hosted by a database online or through the app store is undisclosed and still open for disscussion/negotiation).
 
-### Project Management 
+### [1.4] Project Management 
 
 The strategy set to be applied with regards to project management, to ensure that the project is properly overseen will be Scrum. Scrum is an agile framework for managing work with an emphasis on software development. The reason behind the use of Scrum in particular is due to its flexible nature.
 
-### Goals and Team Roles
+### [1.5] Goals and Team Roles
 
 The Overall goal of the project is to design,present and create a demo of an application based around (ZSL's Specifications) the Green house gas chain, production and impact on the envirioment, essentialy satisfying the clients needs. This is required to be completed by 7th november based on when the event is scehduled. whilst the milestones that are required to be completed along the way in order to meet said goal consist of :
 
@@ -70,7 +70,7 @@ The roles listed next to each group member below are their primary roles, howeve
 
  Joe.W - Developer
 
-### Aims and Objectives [1.4]
+### [1.6] Aims and Objectives 
 
 	Create an app based around a Green House Gas Chain
 
@@ -84,7 +84,7 @@ The roles listed next to each group member below are their primary roles, howeve
 
 	Produce a demo and present ideas to the client (based on the clients specifications)
 
-### Costs [1.5]
+### [1.7] Costs 
 
 The expenditure of the project amounts to approximately £597.95, this is primarily due to software costs (unity), a tool set to be used in the development of the application. Whilst the secondary reason is due to the inclusion or requirement of a Mini Bus/Van rented and used for the transportation of an event, pertaining to the demonstration of the conceptual phase and demo of the application “Greenhouse Menace” to the client.
 In addition, graphics were procured for the implementation and aesthetic of the application, though no additional costs were required since all the graphics were found in the free domain and eventually altered by are graphic designer Luke, with minor altercations and additions taken from the unity store (UI Graphics listed as free) during implementation by the lead programmer Matthew.
@@ -99,7 +99,7 @@ In addition, graphics were procured for the implementation and aesthetic of the 
 | 5	|Microsoft Applications |	0 |	£0.00|        |
 |	  |			         |        |          | £597.95| 
 
-### Quality Assurance Preface[1.6]
+### [1.8] Quality Assurance Preface
 
 The purpose of Reboot Games and are group development team is to provide an acceptable application that caters to said clients specifications, giving  internal quality assurance guidance. 
 This will be attained through notifying clients during the development ensuring ZSL is kept up to date, further doing tests throughout the production of said application, ensuring functionality, ease of use and that the application meets the standards expected by the client.
@@ -107,20 +107,20 @@ Following the tests that will ensue, prototypes and demos will be formulated, to
 In addition schedules will be drafted, with the project being delegated into tasks that have a set time frame in which to be completed, allowing more deliberation, testing segments rather than the whole application making it easier to locate flaws within the system and delegate tasks, thus improving the whole project infrastructure and making the project more organised and time efficient.
 The above methods will better ensure quality assurance and that the application meets client standards and suits their needs, further involving the client in the development ensuring smooth communication and structured organisation.
 
-### Time (Gantt Chart)[1.7]
+### [1.9] Time (Gantt Chart)
 
 ![First Gantt](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/Gantt_Chart_ZSL.png)
 
 The schedule has been formed and based around pre-set dates, pertaining to the supervision and meetings with ZSL as well as the subsequent event which is held on the 7th of November 2017. Further delving into the structure and framework of said Gantt chart above, along with the delegation of time. It is necessary to note that the first meeting with ZSL was held on the 2nd. Following said meeting another meeting at ZSL will occur hence why more time is allocated to the design rather than project management since the first conceptual version will be presented. After said client meeting more time is allocated to the design to ommit or make any changes based on feedback retrieved along with the formulation of a demo or prototype. This demo or prototype is set to be shown on the 7th of Novemeber to the clientele, though it is plasuable ZSL may visit during development. In continuation to the prior point this is the supporting reason as to why 3 days are delegated to testing to ensure any faults may be mitigated.
 
 
-### Communication [1.8]
+### [1.9.1] Communication 
 
 The steps the group is taking to ensure fluent communication consists of the usage of numerous platforms, for instance facebook messenger for text based chat, discord for audio based communication and email for whether any documentation needs to be sent and verified by other group members.
 Furthermore other forms of communication consist of verbal and face to face, setting up meetings throughout the development to ensure that the group is not replicating and regurgitating  similar pieces of work.
 In addition making sure that the group is on schedule and meeting certain set standards, leaving time for a review of work concurrently completed during said time frame. The current times the group is set to meet up have not yet been disclosed other than it would be during the half term in which the location will be Watford, West Herts College. Though the meeting is likely to take place during the duration of three days, with members attending; Monday, Tuesday and Wednesday. 
 
-### Risks [1.9]
+###  [1.9.2] Risks
 
 |ID	|Risks	Category|Level|	Probability	|Effect	|Mitigation|
 |----|-------------|--------|----------|--------|----------|
@@ -129,7 +129,7 @@ In addition making sure that the group is on schedule and meeting certain set st
 |3|	Time or not following schedule|	Medium	|30%	|Through not abiding or following a pre revised schedule as well as the times and dates of the events already confirmed outside the groups control.  The problems that occur will link to how efficiently and quickly the project is completed, also affecting the final outcome with regards to the standard the application measures at.|	If a schedule is not being followed the mitigation and alleviation of said problem would be to re-tune the current schedule to meet and suit both the clients and groups needs.|
 |4|	Costs or going over the set balance	|Low	|5%	|This would be of major consequence since it would mean that if any more graphics or other resources were needed to be procured the group would be unable to do so.|	Possible mitigation would be to levy and negotiate with the client or organisation for more funds drawing up possible reasons as to why the funding is necessary and how it would benefit them. Whilst with regards to prevention it would be ideal to draw out a plan, deciding what is more essential to the development of the project and transferring resources based on that factor.|
 
-### Resources[1.9.1]
+### [1.9.3] Resources
 
 |ID	|Resource Name	|Convention|
 |---|---------|----------|
@@ -139,7 +139,7 @@ In addition making sure that the group is on schedule and meeting certain set st
 |4	|Mini Van|	This resource (Mini Van) is the transport, in which will take the group to the pre-determined event to showcase said application.|
 |5	|Microsoft Applications|	The Resource termed "Microsoft applications", pertains specifically to excel, power point and word set to be used in the development of a documentation and presentations.|
 
-### IDE [1.9.2]
+### [1.9.4] IDE 
 
 In regards to the IDE set to be used in the creation of the application, it was either between notepad++ and visual studios, since that is what the group is most adept at using, whilst both are considerate in regards to layout, tools, etc. and target beginners (with visual studios also targeting other demographics). 
 
@@ -151,7 +151,7 @@ Moreover linking in with the compatibility point in this project the client want
 
 Thereafter the decision was essentially made after evaluating the ease of use, compatibility with other software in use, a comparison of own- self-  knowledge, whether it ran the intended to use language and basically functioned and met with and functioned or worked with the purpose in which the group had in mind (whether it could do what the group intended or wanted it to do)(capability of the software).
 
-### Coding Standards [1.9.3]
+###  [1.9.5] Coding Standards
 
 Coding standards are version-independent and "always-current". All new code should follow the current standards, regardless of (core) version. Existing code in older versions may be updated, but doesn't necessarily have to be
 
@@ -207,7 +207,7 @@ code_example (Functions and Variables) or CodeCoolExample (Variables)
 
 As alliterated above in the length section, comments should be clear and concise using as little characters as possible. The comments are not restricted by the pre-set char limit of 80 and may span for as long as required, though it is recommeded to keep it short to ensure readability.
 
-### Project Backlog [1.9.4]
+### [1.9.6] Project Backlog 
 
 Group Details
 
@@ -286,21 +286,21 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 
-## Design [2]
+## [2] Design 
 
-### Concept [2.1]
+### [2.1] Concept 
 
 The concept behind the project is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change).
 
-### Story [2.2]
+### [2.2] Story 
 
 The story relates to the green house gases and chain, of the production and manufacturing process of four products to four habitats. The user is presented with the production and manufacturing process or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the process once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
 
-### Setting [2.3] 
+### [2.3] Setting 
 
 This game will be set in the present/modern day.
 
-### Application Structure[2.4]
+### [2.4] Application Structure
 
 The Menu will consist of four images, each representing a different area or environment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
@@ -311,46 +311,46 @@ Once an area or habitat has been clicked on a comic strip will be shown spanning
 After the green house gas chain has been completed and put into the correct order, more images are presented showing what could be done to help alleviate the amount of gases released, with pledges then being presented once the images have been removed from the screen with the user given a choice.
 Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
 
-### Player | Platform [2.5]
+### [2.5] Player | Platform 
 
 The application will adhere to 11-16 year olds, being compatible on the following system;
 Apple-IPAD-IOS-Chrome
 The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
 
-### Genre [2.6]
+### [2.6] Genre 
 2D
 Educational
 Memory Game
 
-### Intended Audience[2.7]
+### [2.7] Intended Audience
 
 The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
 
 
-### Sound Consideration[2.8]
+### [2.8] Sound Consideration
 
 The game is not sound dependant since it was requested by the client(no sound or audio).
 
-### Language [2.9]
+### [2.9] Language 
 
 The only language available in the game will be English.
 
-### Camera [2.9.1.]
+### [2.9.1] Camera 
 
 The camera will be projected from a 2D front side angle of the menu, comics, pledges  and chain.
 
-### General Movement [2.9.2]
+### [2.9.2] General Movement 
 
 The users will be able to drop and drag certain objects across the screen (for the chain segment).
 Whilst users will also be able to use the tap function (on the menu and comic slides to transition between scenes).
 
-### Fonts[2.9.3]
+### [2.9.3] Fonts
 
 In game Font: 
 Jupiter (Menu, Game Screen)
 .... (Comic Font)
 
-### In Game Text[2.9.4]
+### [2.9.4] In Game Text
 
 Menu Text-
 Tundra
@@ -461,15 +461,15 @@ Tundra
 1.  9-16% of the electricity consumed in homes is used to power appliances when they are in standby mode.
 
 
-## Evalutation [3]
+## [3] Evalutation 
 
-### Application Alterication [3.1]
+### [3.1] Application Alterication 
 
 Throughout the early stages of development the applications design was based around and concieved as a puzzle game under the guise of global warming, green house gases and focusing on the impact that the gases and global warming as a whole have on the enviroment. Through communciation and during the first presentation of the conceptual design, it was apparent that the specifications the client had set had been miscontruded partly due to misscommunication and misenterpretation. This was later rectified (sanctified) through asking questions and re-viewing the documentation provided to us by ZSL, along with the notes taken during the first meeting with ZSL. 
 
 Thus using said resources avaliable on hand to formulate a new design based around the feedback given and points highlighted in the orginal documentation and notes last glanced over.Thereafter creating the framework for the demo, design documentation and another mini presentation showcasing said new ideas to a ZSL employee named Michelle that visited during production. Though this caused some time to be lost and could have been easily avoided if the correct questions were asked and anwsers noted in the first place, whilst in continuation with the previous point if the brief provided was properly read. Furthermore the label of a game was footed into the groups head, thus making the majority of the people and other groups involved thinking that game elements were required to be involved when in actuality all that was needed was slight interactivity and information displayed on screen (an application not a game).
 
-### How user and software requirements have been addressed (Generalised) [3.2]
+### [3.2] How user and software requirements have been addressed (Generalised) 
 
 User and software requirements have been addressed through concurrent anaylisis seperating and following an infrastructured system that details the overall expectation, then breaking down said initiative into a few EPICS, thereafter anaylising all the aspects of the EPICS and turning them into key components or stories and tasks of what the user would expect from the software, further making it easier to define the softwares functions and oversee the project through management and production, with said stories being another way to define the tasks that require undertaking to meet what was set during the formation of said projects EPICS. Thereafter the once all the tasks have been completed it would also mean the completion of said EPICS and therefore mean that the initiative should be met.
 
@@ -484,7 +484,7 @@ The image below pertains or details the hierachy and how user and software requi
 In regards to the ZSL project an example may be seen through the sprints (Iteration where team does the work) in the project backlog, displaying clearly a project break down into tasks that all pertain to the production of the ZSL application.
 
 
-### Tools and Techniques [3.3]
+### [3.3] Tools and Techniques 
 
 Tools -
 
@@ -527,7 +527,7 @@ Presentations -
 
 The project required monumental metholodgy,ideology and clear communication to ensure that the clients vision was met to an acceptable standard. This was achieved through excellent vocal skills and visual presentation, using the visual aspect as a way to empower the vocalisation and words spoken about the application giving the client an overall view of are interpretation of there requirements. Further grasping the clients attention using body language and speaking skills to present the work and get the point across, essentially using the presentations held throughout the project as a means of communiction and review with the client to ensure a certain standard was upheld and the final product was sold and acceptable. 
 
-### Motivational theories, contrast and impact on the workplace [3.2]
+### [3.2] Motivational theories, contrast and impact on the workplace 
 
 #### Hierarcy of Needs
 
@@ -561,7 +561,7 @@ References used:
 http://smallbusiness.chron.com/three-main-theories-motivation-1888.html
 https://www.simplypsychology.org/maslow.html
 
-### Importance of team dynamics in the success and/or failure of group work [3.4]
+### [3.4] Importance of team dynamics in the success and/or failure of group work 
 
 A Team dynamic is integral to the success or failure of any project and its management,Team dynamics are the unconscious, psychological forces that influence the direction of a team's behaviour and performance.You can recognise team dynamics by looking for the forces that influence team behaviour. These forces might include:
 
@@ -596,7 +596,7 @@ The Teams dynamics were essentially improved and made functional, due to the sud
 
 Following said above points, the impact of team dynamics and the subsequent improvement can been seen more in the second draft as there was more communication after getting feedback from the client, with people completing the work allocated and based around the time given or remaining for completion. An acceptable outcome was achieved, though not chosen, the use of team dynamics and effects may be observed and the project can be deemed succesfull in the scope of meeting the clients standards, though evidently a failure for the group not being chosen, which in a sense shows the flaws and leaves room for development.
 
-### Critical Evalutation of self contribution [3.5]
+### [3.5] Critical Evalutation of self contribution 
 
 In relation to my own self contribution to the project, I believe in regards to the first draft I was integral to some of the key concepts thought up , though not as useful in the documentation of said concept, instead opting to handle the storyboard aspect as to how the game may function and look, though as explained in the above section (Importance of team dynamics in the success and/or failure of group work) the whole team dynamic was not functioning to an acceptable standard and thus confusion ensued as to the graphical outlook of the game and thus a re-evaulation of said drawings was required to ensure consistency with other graphics made by another group member.Furthermore I took attempted to take on roles that were supposed to be covered by the team leader,organising meetings during breaks, though not successful this shows the lack of team dynamic and room for improvement. Although in the (second meeting with the client) meeting where the first draft was introduced and presented to the client I contributed slightly to the answering of questions though maybe not necessary it helped relive the pressure of the chosen presenter of are group.
 
@@ -604,7 +604,7 @@ Furthermore in relation to the contribution for the second draft I believe the c
 
 Moreover following the critical evalutation if I were to undertake a similiar project in the future I would suggest that I work on my time management, communication (required for the whole team/group) and overall handling of the project in the first instance ensuring that the brief is thoroughly read as in the first instance or draft it missed the point as to what the client wanted the application to bring across and be centered around.
 
-### Event and Design evaluation [3.6]
+### [3.6] Event and Design evaluation 
 
 In regards to the event it was  satisfactory, producing perhaps not a desiarable outcome but an exceptable one, as a solid idea was layed out to the client meeting the criteria that was talked over with the client days before in a prior meeting before the final event. Whilst although the application prototype failed to function in some areas the base for the application was there showing the client as to what to expect and considerble commitment considering that it was manufactured and put together within a short span of time.
 
@@ -616,7 +616,7 @@ Though the communication between the tutor unlike the group members for the desi
 
 Therefore in regards to the standard of the application of interpersonal communication during the design pahse and an event, during the first half of the design phase it was appalling, though improved as the project got into the later stages of the design phase, due to a sense of urgency and obligation to the client to fufill prior promises made, thus enabling the event in particular the use of interpersonal skills to soar as there was an abudant amount of content to cover and talk over with the client, also receving constructive criticsm well and applying a range of techniques such as using body language, a presentation, being verbal, well spoken and applying other proffesional practices to ensure that the group was recieved well and the intent of the group was clearly put across.
 
-### Communciation Styles and Formats applied in the delivery of an event 
+### [3.7] Communciation Styles and Formats applied in the delivery of an event 
 
 A range of different communication styles and formats were used during the event to essentially better convey the groups ideas and points across to the client. For instance verbal communication, effective during the presentation as are groups presenter (in this instance Luke Shead) was consise, stating the ideas behind the design,a walkthrough of the given protoytype also covering the parts ommitted form the project due to time constraints.
 
@@ -632,7 +632,7 @@ Emails-
 
 ![Emailone](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_1.png)![Emailtwo](https://github.com/matthewsides/ZSL-Green-House-Menace/blob/master/ZSL_Email_2.png)
 
-### [3.7] Problem solving techniques used in the design and delivery of an event 
+### [3.8] Problem solving techniques used in the design and delivery of an event 
 
 The ZSL project hailed the use of numerous problem solving techniques during the design and deliverly of an event, below a few techniques applied are listed-
 
@@ -659,7 +659,7 @@ http://www.managers.org.uk/knowledge-bank/problem-solving
 
 http://asq.org/learn-about-quality/problem-solving/overview/overview.html
 
-### [3.8] Justification of use of solution Methodologies 
+### [3.9] Justification of use of solution Methodologies 
 
 Throughout the project numerous encounters left the group unable to further progress until a solution was found to a certain problem, detailing the problems, methods and solutions, justification for the steps taken when encountered with said problem may be found in the below paragraphs. 
 
