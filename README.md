@@ -93,7 +93,7 @@ The initial objective is to ensure that a formal, approved document that defines
 
 • Design an application based around  Green House Gas Chain's
 
-
+This objective entails producing a theoretical design based around the clients requirements (Green House Gas Chain). The people working on this will enclose the whole group with the graphical roles being delegated to luke B and Matthew, producing a story board and drawings. Whilst the presentation will be handled by Luke S and Joe, with Sam keeping a backlog of the proccess.The amount of days delegated to the creation of a paper based design will amount to 14.The underlying reason behind this is because the first design is expected on the 30th. Although in the Gantt chart more time is delegated to the development and thus this is only accurate for the first design excluding any changes made after the prsemntation as feed back is retrieved thus it is more accurate to add the additional days as during the development of the working  (physical) prototype changes may be made.
 
 •
 
