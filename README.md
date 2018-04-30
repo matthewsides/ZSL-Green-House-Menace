@@ -85,9 +85,9 @@ The roles listed next to each group member below are their primary roles, howeve
 
 • Produce a Project management plan 
 
-The initial objective is to ensure that a formal, approved document that defines how the project is executed, monitored, and controlled is completed (i.e. project management document completed). This objective will entail the collective effort of the whole group (i.e. Luke B, Luke S, Sam, Matthew, Joe) and be completed at the West Herts college Campus. The project management document is intended to be completed within the next 15 days. This is essentially due
+The initial objective is to ensure that a formal, approved document that defines how the project is executed, monitored, and controlled is completed (i.e. project management document completed). This objective will entail the collective effort of the whole group (i.e. Luke B, Luke S, Sam, Matthew, Joe) and be completed at the West Herts college Campus. The project management document is intended to be completed within the next 15 days. This is essentially due to time constraints as the theoretical design is expected to be presented to the client by the 30th october, only leaving 12 days for the first conceptual design. The completion of this project management plan is crucial in building the foundation of the project and keeping logs that may be referenced at a later date if necessary.
 
-will be expected to be completed by the 9/24/17 
+will be expected to be completed by the 18/10/17
 
 •
 
