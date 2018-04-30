@@ -496,7 +496,7 @@ Thus using said resources avaliable on hand to formulate a new design based arou
 
 User and software requirements have been addressed through continued analysis seperating the infrastructure and user features and  expectations.The initial requirements were reviewed and created as a number EPICS before being turned into key components or stories and tasks that the user will expect from the software. The stories were completed as part of a number of sprint cycles with the results of sprint being made avaliable  to the internal team and client for testing and review. This proccess was then continued several times until the user found the system acceptable. 
 
-Incontinuation of the points above the use of such a breakdown methodlogy also makes it easier to define and form the software requirements as what the user would want or expect is thought and therefore what is required to be built into the software is formed through the user requirements. Moreover the user and software requirements also further the software requirements in or with regards to the software set to be used and applied for production.
+In continuation of the points above the use of such a breakdown methodlogy also makes it easier to define and form the software requirements as to what the user would want or expect, thus making it clear as to what is required to be built into the software (formed through the user requirements). Moreover the user and software requirements also further the requirements in or with regards to the software set to be used and applied for production.
 
 The image below pertains or details the hierachy and how user and software requirments are broken down and addressed-
 
@@ -552,7 +552,7 @@ The project required monumental metholodgy,ideology and clear communication to e
 
 Scrum -
 
-Scrum was essentially the main technique applied in the project used to essentially delegate and manage the project as a whole. Scrum is essentially an agile framework for managing work with an emphasis on software development. The reason for using Scrum was due to its flexible nature.
+Scrum was the main frame work or technique applied in the project used to essentially delegate and manage the project as a whole. Scrum is essentially an agile framework for managing work with an emphasis on software development. The reason for using Scrum was due to its flexible nature.
 
 
 
