@@ -544,11 +544,17 @@ Subsequently the last interview pertained to the final presentation of the game'
 
 Prototyping -
 
-Protoyping another intergral technique used in the project was applied whilst creating the application in unity, testing was used to quarter of sections of code based on there functionality and purpose to see whether any errors occurred whilst in running, back ups were also saved to ensure that there were no set backs during this phase and throughtout coding. This also ensured that it would be easier to find errors in the programming and system, since if an error did occur it is more likely to either be the new code conflicting with another line of code or an issue within the code chunk (block) itself.
+Prototyping another intergral technique used in the project was applied whilst creating the application in unity, testing was used to quarter of sections of code based on there functionality and purpose to see whether any errors occurred whilst in running, back ups were also saved to ensure that there were no set backs during this phase and throughtout coding. This also ensured that it would be easier to find errors in the programming and system, since if an error did occur it is more likely to either be the new code conflicting with another line of code or an issue within the code chunk (block) itself.
 
 Presentations -
 
 The project required monumental metholodgy,ideology and clear communication to ensure that the clients vision was met to an acceptable standard. This was achieved through excellent vocal skills and visual presentation, using the visual aspect as a way to empower the vocalisation and words spoken about the application giving the client an overall view of are interpretation of there requirements. Further grasping the clients attention using body language and speaking skills to present the work and get the point across, essentially using the presentations held throughout the project as a means of communiction and review with the client to ensure a certain standard was upheld and the final product was sold and acceptable. 
+
+Scrum -
+
+Scrum was essentially the main technique applied in the project used to essentially delegate and manage the project as a whole. Scrum is essentially an agile framework for managing work with an emphasis on software development. The reason for using Scrum was due to its flexible nature.
+
+
 
 ### [3.2] Motivational theories, contrast and impact on the workplace 
 
