@@ -75,11 +75,14 @@ The roles listed next to each group member below are their primary roles, howeve
 
 #### Aims 
 
-• 
+• 	Produce and Implement a Drag and Drop System
 
-•
+• Incorporate 4 areas based around geographical terrain 
 
-•
+• Make the app functional and compatible in said target system (Ipad)
+
+• Produce a demo and present ideas to the client (based on the clients specifications)
+
 
 #### Objectives
 
@@ -88,23 +91,15 @@ The roles listed next to each group member below are their primary roles, howeve
 The initial objective is to ensure that a formal, approved document that defines how the project is executed, monitored, and controlled is completed (i.e. project management document completed). This objective will entail the collective effort of the whole group (i.e. Luke B, Luke S, Sam, Matthew, Joe) and be completed at the West Herts college Campus. The project management document is intended to be completed within the next 15 days. This is essentially due to time constraints as the theoretical design is expected to be presented to the client by the 30th october, only leaving 12 days for the first conceptual design. The completion of this project management plan is crucial in building the foundation of the project and keeping logs that may be referenced at a later date if necessary. This will be expected to be completed by the 18/10/17, leaving 15 days for completion with the whole group working on the document amounting to 6 people. The probability of completing said objective is high though it would require a collective group effort. 
 
 
-•
+• Design an application based around  Green House Gas Chain's
+
+
 
 •
 
 •
 
-	Create an app based around a Green House Gas Chain
 
-	Produce and Implement a Drag and Drop System
-
-	Satisfy client requirements to an acceptable standard
-
-	Incorporate 4 areas based around geographical terrain 
-
-	Make the app functional and compatible in said target system (I pad)
-
-	Produce a demo and present ideas to the client (based on the clients specifications)
 
 ### [1.7] Costs 
 
