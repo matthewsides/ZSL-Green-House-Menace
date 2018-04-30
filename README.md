@@ -95,8 +95,9 @@ The initial objective is to ensure that a formal, approved document that defines
 
 This objective entails producing a theoretical design based around the clients requirements (Green House Gas Chain). The people working on this will enclose the whole group with the graphical roles being delegated to luke B and Matthew, producing a story board and drawings. Whilst the presentation will be handled by Luke S and Joe, with Sam keeping a backlog of the proccess.The amount of days delegated to the creation of a paper based design will amount to 14.The underlying reason behind this is because the first design is expected on the 30th. Although in the Gantt chart more time is delegated to the development and thus this is only accurate for the first design excluding any changes made after the prsemntation as feed back is retrieved thus it is more accurate to add the additional days as during the development of the working  (physical) prototype changes may be made. It is critical that this objective is met for the project to progress to its development stages and give the client a visual and descriptive representation of what to expect.The probability of meeting this objective is a stretch however with the proper application of scrum and roles and responsibilitys being met it should  be plausable.
 
-• Create a prototype based on 
+• Create a working demo 
 
+This objective pertains to the creation of a functional application or prototype, that will be used during the final on campus meeting with a client representative and the event. The demo will be handled by the whole group with Matthew taking the primary role of main programmer, Luke head graphic designer and Sam , Joe and Luke interchanging between roles.
 
 
 •
