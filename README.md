@@ -75,13 +75,19 @@ The roles listed next to each group member below are their primary roles, howeve
 
 #### Aims 
 
+After breaking down the project and taking all of the client needs into consideration, the team then devised project aims and objectives to help work on the tasks of the project, for instance, project aims included:
+
 • 	Produce and Implement a Drag and Drop System
 
 • Incorporate 4 areas based around geographical terrain 
 
 • Make the app functional and compatible in said target system (Ipad)
 
+• Visual Appealing Menu
+
 • Produce a demo and present ideas to the client (based on the clients specifications)
+
+• Implement a clear pledge system
 
 
 #### Objectives
@@ -100,7 +106,7 @@ This objective entails producing a theoretical design based around the clients r
 This objective pertains to the creation of a functional application or prototype, that will be used during the final on campus meeting with a client representative and the event. The demo will be handled by the whole group with Matthew taking the primary role of main programmer, Luke head graphic designer and Sam , Joe and Luke interchanging between roles.This should be started shortly after the start of the design document and completed within the remaining few days after the meeting on the 30th, this is primarly due to the event being held on the 7th (7/11/17).This objective or working demo will be compared to the requirements set by the client along with the  design document to see whether this has been met. Whilst additional testing should be carried out to check the functionality.
 
 
-•
+• 
 
 
 
