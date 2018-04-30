@@ -72,6 +72,29 @@ The roles listed next to each group member below are their primary roles, howeve
 
 ### [1.6] Aims and Objectives 
 
+
+#### Aims 
+
+• 
+
+•
+
+•
+
+#### Objectives
+
+• Produce a Project management plan 
+
+The initial objective is to ensure that a formal, approved document that defines how the project is executed, monitored, and controlled is completed (i.e. project management document completed). This objective will entail the collective effort of the whole group (i.e. Luke B, Luke S, Sam, Matthew, Joe) and be completed at the West Herts college Campus. The project management document is intended to be completed within the next 15 days. This is essentially due
+
+will be expected to be completed by the 9/24/17 
+
+•
+
+•
+
+•
+
 	Create an app based around a Green House Gas Chain
 
 	Produce and Implement a Drag and Drop System
